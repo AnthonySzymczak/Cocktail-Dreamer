@@ -25,6 +25,8 @@ npm packages and other things you'll need
 ## Usage
 I am a 21+ consumer of alcohol and want to learn how to make delicious cocktails, while also being able to give an accurate background on its components. Such as historical data on the general spirit, anecdotes on the drink itself, etc.
 
+In this application you will find 25 of the most well known cocktails out there, however, how could one truly love the craft with out trying some recipies on their own? So, inside you will also note a section to add your own recipies and create your own cocktails!
+
 ### Thoughts
 
 
@@ -43,7 +45,8 @@ Anthony Szymczak
 
 
 ## AboutMe
-
+Anthony Szymczak is a young and driven professional with over 6+ years of experience in the programming field, 10+ years in the bartending field, and finally he is a BarSmarts Graduate.
+He wanted to take his passions with coding and bartending and turn it into something more, and so this app was developed!
 
 # Questions
 ## Have questions for the developer? Here are their links! 
