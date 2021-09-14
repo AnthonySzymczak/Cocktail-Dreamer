@@ -1,57 +1,70 @@
-# Cocktail-Dreamer 
-Project #3
+# Getting Started with Create React App
 
-## Description of application
-Looking to host a 21+ aged party? Not too sure where to start with great tasting cocktails but you have quite the stocked bar at home? Have a bunch of types of alcohol yet have no idea how to describe them? Want to know the history behind your alcohol? Look no further, consult Cocktail-Dreamer for all of your drink recipe, learning needs!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Join myself, Anthony Szymczak, on an experience you wont forget!
+## Available Scripts
 
-## Table of Contents :
-*[Install](#install)
-*[Usage](#usage)
-*[License](#license)
-*[Contributors](#contributors)
-*[Tests](#tests)
-*[Questions](#questions)
-*[AboutMe](#aboutme)
+In the project directory, you can run:
 
-## Install
-npm packages and other things you'll need
-- mongoose
-- express
-- Graphql
-- React.js
+### `npm start`
 
-## Usage
-I am a 21+ consumer of alcohol and want to learn how to make delicious cocktails, while also being able to give an accurate background on its components. Such as historical data on the general spirit, anecdotes on the drink itself, etc.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-In this application you will find 25 of the most well known cocktails out there, however, how could one truly love the craft with out trying some recipes on their own? So, inside you will also note a section to add your own recipes and create your own cocktails!
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### Thoughts
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Users
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## License
-MIT License
-    
-  
-## Contributors
-Anthony Szymczak
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Tests
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## AboutMe
-Anthony Szymczak is a young and driven professional with over 6+ years of experience in the programming field, 10+ years in the bartending field, and finally he is a BarSmarts Graduate.
-He wanted to take his passions with coding and bartending and turn it into something more, and so this app was developed!
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-# Questions
-## Have questions for the developer? Here are their links! 
-Creator's Website
-https://github.com/AnthonySzymczak/My-First-Portfolio
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-  If you have any further questions, you can reach me at the following email
-  : <anthonyszymczak@msn.com>
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
