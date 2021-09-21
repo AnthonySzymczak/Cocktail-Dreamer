@@ -16,7 +16,7 @@ function App() {
         <Router>
           <Navbar />
           <Switch>
-            {/* <Route path='/' exact component={About}/> */}
+            <Route path='/' exact component={Welcome}/>
             <Route path='/Cocktails' exact component={Cocktails}/>
             <Route path='/Contact' exact component={ContactForm}/>
             <Route path='/CYO' exact component={CYO}/>
