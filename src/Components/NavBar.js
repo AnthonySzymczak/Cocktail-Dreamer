@@ -51,18 +51,22 @@ window.addEventListener('resize',showButton);
                         </Link>
                         </li>
                         <li className='nav-item'>
-                        <Link to='/knowledge' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/Knowledge' className='nav-links' onClick={closeMobileMenu}>
                             Learn More
                         </Link>
                         </li>
                         <li className='nav-item'>
-                        <Link to='/suggestions' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/Suggestions' className='nav-links' onClick={closeMobileMenu}>
                             Talk About it!
                         </Link>
                         </li>
                         <li className='nav-item'>
-                        <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/Contact' className='nav-links' onClick={closeMobileMenu}>
                             Contact
+                        </Link>
+                        </li><li className='nav-item'>
+                        <Link to='/AboutUs' className='nav-links' onClick={closeMobileMenu}>
+                            About Us
                         </Link>
                         </li>
                     
