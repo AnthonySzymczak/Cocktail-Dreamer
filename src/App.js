@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Cocktails from '../Components/Cocktails/Cocktails';
-import ContactForm from './components/Contact';
+import ContactForm from '../Components/Contact/index';
 import CYO from '../Components/CYO/Cyo';
 import Knowledge from '../Components/Booze/Knowledge';
 import suggestions from '../Components/Suggestions/Suggestions';

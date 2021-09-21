@@ -74,4 +74,4 @@ window.addEventListener('resize',showButton);
     )
 }
 
-export default Navbar
+export default Navbar;

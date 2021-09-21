@@ -1,4 +1,8 @@
-<script>
+import React from 'react'
+
+function Cocktails() {
+    return(
+<article>
 <div>
     <h2>
 1) Aviation Cocktail [1910-1920]
@@ -497,4 +501,7 @@ Ingredients
 Preparation: Shake all ingredients with ice and strain into an old-fashioned glass or a special sour glass. Garnish with a flag (an orange slice and a cherry). This drink is equally delicious when made with Irish whiskey. Some brave souls even like theirs with Scotch.
 </div>
 
-</script>
+</article>
+)
+}
+export default Cocktails;
