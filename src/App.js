@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from './components/Navbar';
+import Navbar from './Components/NavBar';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import Cocktails from '../Components/Cocktails/Cocktails';
-import ContactForm from '../Components/Contact/index';
-import CYO from '../Components/CYO/Cyo';
-import Knowledge from '../Components/Booze/Knowledge';
-import suggestions from '../Components/Suggestions/Suggestions';
+import Cocktails from './Components/Cocktails/Cocktails';
+import ContactForm from './Components/Contact/index';
+import CYO from './Components/CYO/Cyo';
+import Knowledge from './Components/Booze/Knowledge';
+import suggestions from './Components/Suggestions/Suggestions';
 import './App.css';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Router>
           <Navbar />
           <Switch>
-            <Route path='/' exact component={About}/>
+            {/* <Route path='/' exact component={About}/> */}
             <Route path='/Cocktails' exact component={Cocktails}/>
             <Route path='/contact' exact component={ContactForm}/>
             <Route path='/CYO' exact component={CYO}/>
@@ -25,7 +25,7 @@ function App() {
           </Switch>
 
         </Router>
-        <Footer />
+        {/* <Footer /> */}
 
       </>
 
