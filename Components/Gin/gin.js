@@ -5,7 +5,7 @@
 <body>
     
 
-<h1>Gin - What</h1>
+<h2>Gin - What</h2>
 <p>
 Gin is a spirit that is typically triple distilled, based upon neutral grain spirits, and cut with distilled water. In
 most cases, the grain spirits have been created through a double or triple column still distillation. Then the grain
