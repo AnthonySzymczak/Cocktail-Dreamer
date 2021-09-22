@@ -1,20 +1,36 @@
 import React from 'react';
-import Navbar from './Pages/NavBar';
+
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import Cocktails from './Pages/Cocktails/Cocktails';
-import ContactForm from './Pages/Contact/index';
-import CYO from './Pages/CYO/Cyo';
-import Knowledge from './Pages/Booze/Knowledge';
-import Suggestions from './Pages/Suggestions/Suggestions';
-import AboutUs from './Pages/AboutUs';
-import Welcome from './Pages/Welcome';
-import Footer from './Pages/Footer'
+import { ApolloProvider } from '@apollo/react-hooks';
+import ApolloClient from 'apollo-boost';
+
+import Navbar from './pages/NavBar';
+import Cocktails from './pages/Cocktails/Cocktails';
+import ContactForm from './pages/Contact/index';
+import CYO from './pages/CYO/Cyo';
+import Knowledge from './pages/Booze/Knowledge';
+import Suggestions from './pages/Suggestions/Suggestions';
+import AboutUs from './pages/AboutUs';
+import Welcome from './pages/Welcome';
+import Footer from './pages/Footer'
 import './App.css';
+
+const client = new ApolloClient({
+  request: operation => {
+    const token = localStorage.getItem('id_token');
+
+    operation.setContext({
+      headers: {
+        authorization: token ? `Bearer ${token}` : ''
+      }
+    });
+  },
+  uri: '/graphql'
+});
 
 function App() {
   return (
-    <>
- 
+     <ApolloProvider client={client}>
         <Router>
           <Navbar />
           <Switch>
@@ -28,10 +44,10 @@ function App() {
             
           </Switch>
 
-        </Router>
         <Footer />
-
-      </>
+        </Router>
+ 
+        </ApolloProvider>
 
   );
   }
