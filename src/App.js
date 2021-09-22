@@ -8,6 +8,7 @@ import Knowledge from './Components/Booze/Knowledge';
 import Suggestions from './Components/Suggestions/Suggestions';
 import AboutUs from './Components/AboutUs';
 import Welcome from './Components/Welcome';
+import Footer from './Components/Footer';
 import './App.css';
 
 function App() {
@@ -28,7 +29,7 @@ function App() {
           </Switch>
 
         </Router>
-        {/* <Footer /> */}
+        <Footer />
 
       </>
 
