@@ -7,6 +7,7 @@ import CYO from './Components/CYO/Cyo';
 import Knowledge from './Components/Booze/Knowledge';
 import Suggestions from './Components/Suggestions/Suggestions';
 import AboutUs from './Components/AboutUs';
+import Welcome from './Components/Welcome';
 import './App.css';
 
 function App() {
