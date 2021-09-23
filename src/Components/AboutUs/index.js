@@ -33,8 +33,9 @@ function AboutUs() {
             image of yourself
           </div>
           <p>
-            Talk about your passions, where you come from, brief history of you
-            the creator
+          Twenty four years of age and born in Port-Au-Prince, Haiti - Mervens Victor came to the United States for the best opportunities in the future.
+           Result driven individual, strives for the highest quality work in all aspects of a project. Diverse skillset, experience with computer software & OS.
+            Enjoys reading, writing, creating videos and art for hobbies, along with a love for hotdogs and ribs.
           </p>
         </div>
       </div>
