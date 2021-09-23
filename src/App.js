@@ -4,7 +4,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Cocktails from './Components/Cocktails/Cocktails';
 import ContactForm from './Components/Contact/index';
 import CYO from './Components/CYO/Cyo';
-import Knowledge from './Components/Booze/Knowledge';
+import Knowledge from './Components/Knowledge/Knowledge';
 import Suggestions from './Components/Suggestions/Suggestions';
 import AboutUs from './Components/AboutUs';
 import Welcome from './Components/Welcome';
