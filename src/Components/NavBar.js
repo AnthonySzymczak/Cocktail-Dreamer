@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Button } from './Button';
+import { FaAngleDoubleDown } from "react-icons/fa"
+
 import './Navbar.css';
 
 function Navbar() {
@@ -24,15 +26,15 @@ window.addEventListener('resize',showButton);
     return (
         <>
          <nav className="navbar">
-            <div>
                 
+            <div>
+
                 <Link to="/" className="navbar-logo">
                 
-                <i class="fas fa-cocktail"></i><i class="fas fa-hat-wizard"/>
                 </Link>
                 
                 <div className="menu-icon" onClick={handleClick}>
-                    <i className={click ? 'fas fa-angle-double-down': 'fas fa-bars'} />
+                    {/* <i className={click ? {FaEllipsisV}: {FaStream}}/> */}
                 </div>
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li className='nav-item'>

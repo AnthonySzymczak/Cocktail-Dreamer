@@ -28,7 +28,7 @@ window.addEventListener('resize',showButton);
                 
                 <Link to="/" className="navbar-logo">
                 <br/>
-                <i class="fas fa-cocktail"/><i class="fas fa-hat-wizard"/>
+                <i className="fas fa-cocktail"/><i className="fas fa-hat-wizard"/>
                 </Link>
                 
                 <div className="menu-icon" onClick={handleClick}>
