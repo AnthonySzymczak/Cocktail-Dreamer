@@ -12,26 +12,28 @@
   
   
   .navbar-logo {
-    color: rgb(226, 195, 18);
-    justify-self: start;
+    color: gold;
+    justify-self:flex-start;
     margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
     display: flex;
-    align-items: center;
+    align-items:flex-start;
   }
   
-  /* .fa-cocktail {
+  .fa-cocktail {
     display: flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
+
   }
   .fa-hat-wizard {
-    display:inline;
+    display:flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
-  } */
+ 
+  }
   
   .nav-menu {
     display: flex;
@@ -39,7 +41,7 @@
     text-align: center;
 
     width: auto;
-    justify-content:center;
+    justify-content:flex-end;
     margin-right: 0.5rem;
   }
   
@@ -49,7 +51,7 @@
   }
   
   .nav-links {
-    color: rgb(255, 230, 0);
+    color: gold;
     display: flex;
     align-items: center;
     
@@ -59,20 +61,20 @@
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #fff;
+    border-bottom: 4px solid gold;
     transition: all 0.2s ease-out;
   }
   
-  /* .fa-bars {
-    color: #fff;
-  } */
+  .fa-bars {
+    color: gold;
+  }
   
   .nav-links-mobile {
     display: none;
   }
   
   .menu-icon {
-    display:inline;
+    display:none;
   }
   .btn-mobile{
       display: none;
@@ -87,7 +89,7 @@
     .nav-menu {
       display: flex;
       flex-direction: column;
-      align-items: start;
+      align-items: flex-start;
       width: 35%;
       position: absolute;
       top: 3.5rem;
@@ -106,9 +108,9 @@
   
     .nav-links {
       text-align: center;
-      /* padding: 2rem; */
+      padding: 2rem;
       width: 100%;
-      /* display: table; */
+      display: table;
     }
   
     .nav-links:hover {
@@ -120,8 +122,6 @@
     .navbar-logo {
       position: relative;
       top: 0;
-      width: 1rem;
-      height: 1rem;
       left: 0;
       transform: translate(25%, 50%);
     }
@@ -132,23 +132,21 @@
       top: 0;
       right: 0;
       transform: translate(-100%, 60%);
-      height: 10px;
-      width: 10px;
       font-size: 1.8rem;
       cursor: pointer;
     }
   
     .fa-angle-double-down {
-      color: black;
+      color: gold;
       font-size: 2rem;
     }
     .fas-cocktail {
-        margin-left: 0.5rem;
-        height: 1rem;
-        width: 1rem;
+      color: gold;
+        margin-left: 0.1rem;
         font-size: 1.3rem;
       }
       .fas-hat-wizard {
+        color: gold;
         margin-left: 0.2rem;
         font-size: 1.3rem;
       }
