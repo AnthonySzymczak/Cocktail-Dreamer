@@ -19,7 +19,7 @@
     text-decoration: none;
     font-size: 2rem;
     display: flex;
-    align-items:flex-start;
+    align-items:center;
   }
   
   .fa-cocktail {
@@ -41,7 +41,7 @@
     text-align: center;
 
     width: auto;
-    justify-content:flex-end;
+    justify-content: flex-end;
     margin-right: 0.5rem;
   }
   
@@ -73,9 +73,9 @@
     display: none;
   }
   
-  .menu-icon {
+  /* .menu-icon {
     display:none;
-  }
+  } */
   .btn-mobile{
       display: none;
   }
@@ -108,9 +108,9 @@
   
     .nav-links {
       text-align: center;
-      padding: 2rem;
+      /* padding: 2rem; */
       width: 100%;
-      display: table;
+      /* display: table; */
     }
   
     .nav-links:hover {
@@ -127,30 +127,39 @@
     }
   
     .menu-icon {
-      display: block;
-      position: absolute;
-      top: 0;
-      right: 0;
+      display: flex;
+      position: relative;
+      top: 3;
+      right: 3;
       transform: translate(-100%, 60%);
       font-size: 1.8rem;
       cursor: pointer;
+      /* height: 20px; */
+      /* width: 20px; */
     }
   
     .fa-angle-double-down {
       color: gold;
       font-size: 2rem;
+      /* height: 20px;
+      width: 20px; */
     }
-    .fas-cocktail {
+    .fas-fa-cocktail-fa-sm {
       color: gold;
-        margin-left: 0.1rem;
+        margin-left: 0.2rem;
         font-size: 1.3rem;
       }
-      .fas-hat-wizard {
+      .fa-hat-wizard {
         color: gold;
         margin-left: 0.2rem;
         font-size: 1.3rem;
       }
-    .nav-links-mobile {
+      .fa-bars {
+        color: gold;
+        height: 20px;
+        width: 20px;
+      }
+    /* .nav-links-mobile {
       display: block;
       text-align: center;
       margin: 2rem;
@@ -169,7 +178,7 @@
       background: #fff;
       color: #242424;
       transition: 250ms;
-    }
+    } */
     .btn-mobile{
         display: flex;
     }

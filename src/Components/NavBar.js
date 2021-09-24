@@ -28,13 +28,13 @@ function Navbar() {
       <nav className="navbar">
         <div>
           <Link to="/" className="navbar-logo">
-            {/* <i class="fas fa-cocktail fa-sm"/><i class="fas fa-hat-wizard fa-sm"/> */}
+            <i class="fas fa-cocktail"/><i class="fas fa-hat-wizard"/>
           </Link>
 
           <div className="menu-icon" onClick={handleClick}>
             <i
               className={
-                click ? "fas fa-angle-double-down fa-sm" : "fas fa-bars fa-sm"
+                click ? "fas fa-angle-double-down" : "fas fa-bars"
               }
             />
           </div>
