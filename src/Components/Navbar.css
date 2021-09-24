@@ -1,6 +1,6 @@
 .navbar {
     background: rgb(0, 50, 107);
-    height: 5rem;
+    height: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -38,8 +38,8 @@
     list-style: none;
     text-align: center;
 
-    width: 80vw;
-    justify-content: end;
+    width: auto;
+    justify-content:center;
     margin-right: 2rem;
   }
   
@@ -81,6 +81,7 @@
   @media screen and (max-width: 960px) {
     .NavbarItems {
       position: relative;
+
     }
   
     .nav-menu {
@@ -117,7 +118,7 @@
     }
   
     .navbar-logo {
-      position: absolute;
+      position: relative;
       top: 0;
       left: 0;
       transform: translate(25%, 50%);
@@ -134,7 +135,7 @@
     }
   
     .fa-angle-double-down {
-      color: #fff;
+      color: black;
       font-size: 2rem;
     }
     .fa-cocktail {

@@ -27,8 +27,8 @@ window.addEventListener('resize',showButton);
             <div>
                 
                 <Link to="/" className="navbar-logo">
-                <br/>
-                <i class="fas fa-cocktail"/><i class="fas fa-hat-wizard"/>
+                
+                <i class="fas fa-cocktail"></i><i class="fas fa-hat-wizard"/>
                 </Link>
                 
                 <div className="menu-icon" onClick={handleClick}>
@@ -46,7 +46,7 @@ window.addEventListener('resize',showButton);
                         </Link>
                         </li>
                         <li className='nav-item'>
-                        <Link to='/CYO' className='nav-links' onClick={closeMobileMenu}>
+                        <Link to='/Create' className='nav-links' onClick={closeMobileMenu}>
                             Create your own!
                         </Link>
                         </li>
@@ -57,7 +57,7 @@ window.addEventListener('resize',showButton);
                         </li>
                         <li className='nav-item'>
                         <Link to='/Suggestions' className='nav-links' onClick={closeMobileMenu}>
-                            Talk About it!
+                            suggestions
                         </Link>
                         </li>
                         <li className='nav-item'>
