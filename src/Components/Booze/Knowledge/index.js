@@ -1,7 +1,12 @@
 import React from 'react'
+import ImageB from '../../../images/Brandy.jpg'
+import ImageG from '../../../images/Gin.jpg'
+import ImageV from '../../../images/Vodka.jpg'
+import ImageW from '../../../images/Whiskey.jpg'
+import ImageR from '../../../images/Rum.jpg'
+import ImageT from '../../../images/Tequila.jpg'
 
 <BrandyCard
-img="../images/Brandy.jpg"
 imgAlt="Bottles of Brandy"
 eyebrow="Brandy"
 title="Ingredients, Types, and History"
@@ -31,18 +36,18 @@ function Knowledge() {
         </div> */
         
   <div>
-    <img class="rounded" src="img" alt="imgAlt"/>
+    <img class="rounded" src={ImageB} alt="imgAlt"/>
     <div className="mt-2">
       <div>
-        <div className="text-xs text-blue-600 uppercase font-bold">{{ eyebrow }}</div>
+        <div className="text-xs text-blue-600 uppercase font-bold">{ eyebrow }</div>
         <div className="font-bold text-blue-700 leading-snug">
-          <a href="url" class="hover:underline">{{ title }}</a>
+          <a href="url" class="hover:underline">{ title }</a>
         </div>
       </div>
     </div>
   </div>
-);
-};
+)
+}
 
 export default {
     props: ['img', 'imgAlt', 'eyebrow', 'title', 'pricing', 'url']
