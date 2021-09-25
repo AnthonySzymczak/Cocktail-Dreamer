@@ -20,18 +20,21 @@
     font-size: 2rem;
     display: flex;
     align-items:center;
+    display: none;
   }
   
   .fa-cocktail {
     display: flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
+    /* display: none; */
 
   }
   .fa-hat-wizard {
     display:flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
+    /* display: none; */
  
   }
   
@@ -73,9 +76,9 @@
     display: none;
   }
   
-  /* .menu-icon {
+  .menu-icon {
     display:none;
-  } */
+  }
   .btn-mobile{
       display: none;
   }
@@ -99,17 +102,30 @@
     }
   
     .nav-menu.active {
+      display: flex;
       background: #242222;
+      text-align: left;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
+      transform: translate(0%, -10%);
+      width: auto;
       z-index: 1;
     }
   
+    .nav-item{
+      display: flex;
+      justify-content: left;
+      align-items: flex-start;
+      width: auto;
+      
+
+
+    }
     .nav-links {
-      text-align: center;
-      /* padding: 2rem; */
-      width: 100%;
+      text-align: left;
+      padding: 2rem;
+      width: auto;
       /* display: table; */
     }
   
@@ -117,6 +133,7 @@
       background-color: #fff;
       color: #242424;
       border-radius: 0;
+      width: auto;
     }
   
     .navbar-logo {
@@ -128,10 +145,11 @@
   
     .menu-icon {
       display: flex;
-      position: relative;
-      top: 3;
-      right: 3;
-      transform: translate(-100%, 60%);
+      justify-content: flex-end;
+      position: right;
+      top: 0;
+      right: 0;
+      transform: translate(150%, 100%);
       font-size: 1.8rem;
       cursor: pointer;
       /* height: 20px; */
@@ -144,7 +162,7 @@
       /* height: 20px;
       width: 20px; */
     }
-    .fas-fa-cocktail-fa-sm {
+    .fa-cocktail {
       color: gold;
         margin-left: 0.2rem;
         font-size: 1.3rem;
@@ -158,6 +176,7 @@
         color: gold;
         height: 20px;
         width: 20px;
+        /* position: relative; */
       }
     /* .nav-links-mobile {
       display: block;

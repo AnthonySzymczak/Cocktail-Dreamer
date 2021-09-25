@@ -77,7 +77,7 @@ function Navbar() {
                 className="nav-links"
                 onClick={closeMobileMenu}
               >
-                suggestions
+                Suggestions
               </Link>
             </li>
             <li className="nav-item">
@@ -99,7 +99,6 @@ function Navbar() {
               </Link>
             </li>
           </ul>
-          {/* {button && {FaAngleDoubleDown}} */}
           {button && <Button buttonStyle="btn--outline">Contact</Button>}
         </div>
       </nav>
