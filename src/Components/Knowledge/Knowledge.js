@@ -4,7 +4,7 @@ import React from 'react'
 img="../images/Brandy.jpg"
 imgAlt="Bottles of Brandy"
 eyebrow="Brandy"
-title="Relaxing All-Inclusive Resort in Cancun"
+title="Ingredients, Types, and History"
 url="../Brandy"
 />
 
