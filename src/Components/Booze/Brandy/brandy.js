@@ -1,3 +1,5 @@
+import React from "react";
+
 <script>
 <div>
         <h1> BRANDY</h1>
