@@ -1,6 +1,6 @@
 .navbar {
     background: rgb(0, 50, 107);
-    height: 5rem;
+    height: 10rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,25 +12,30 @@
   
   
   .navbar-logo {
-    color: rgb(226, 195, 18);
-    justify-self: start;
+    color: gold;
+    justify-self:flex-start;
     margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
     display: flex;
-    align-items: center;
+    align-items:center;
+    display: none;
   }
   
   .fa-cocktail {
     display: flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
+    /* display: none; */
+
   }
   .fa-hat-wizard {
-    display: flex;
+    display:flex;
     margin-left: 0.5rem;
     font-size: 1.8rem;
+    /* display: none; */
+ 
   }
   
   .nav-menu {
@@ -38,9 +43,9 @@
     list-style: none;
     text-align: center;
 
-    width: 80vw;
-    justify-content: end;
-    margin-right: 2rem;
+    width: auto;
+    justify-content: flex-end;
+    margin-right: 0.5rem;
   }
   
   .nav-item {
@@ -49,22 +54,22 @@
   }
   
   .nav-links {
-    color: rgb(255, 230, 0);
+    color: gold;
     display: flex;
     align-items: center;
     
     text-decoration: none;
-    padding: 1rem 6rem;
+    padding: 1rem 2rem;
     /* height: 100%; */
   }
   
   .nav-links:hover {
-    border-bottom: 4px solid #fff;
+    border-bottom: 4px solid gold;
     transition: all 0.2s ease-out;
   }
   
   .fa-bars {
-    color: #fff;
+    color: gold;
   }
   
   .nav-links-mobile {
@@ -72,7 +77,7 @@
   }
   
   .menu-icon {
-    display: none;
+    display:none;
   }
   .btn-mobile{
       display: none;
@@ -81,12 +86,13 @@
   @media screen and (max-width: 960px) {
     .NavbarItems {
       position: relative;
+
     }
   
     .nav-menu {
       display: flex;
       flex-direction: column;
-      align-items: start;
+      align-items: flex-start;
       width: 35%;
       position: absolute;
       top: 3.5rem;
@@ -96,17 +102,30 @@
     }
   
     .nav-menu.active {
+      display: flex;
       background: #242222;
+      text-align: left;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
+      transform: translate(0%, -10%);
+      width: auto;
       z-index: 1;
     }
   
+    .nav-item{
+      display: flex;
+      justify-content: left;
+      align-items: flex-start;
+      width: auto;
+      
+
+
+    }
     .nav-links {
-      text-align: center;
-      /* padding: 2rem; */
-      width: 100%;
+      text-align: left;
+      padding: 2rem;
+      width: auto;
       /* display: table; */
     }
   
@@ -114,38 +133,71 @@
       background-color: #fff;
       color: #242424;
       border-radius: 0;
+      width: auto;
     }
   
     .navbar-logo {
-      position: absolute;
+      position: relative;
       top: 0;
       left: 0;
       transform: translate(25%, 50%);
     }
   
     .menu-icon {
-      display: block;
-      position: absolute;
+      display: flex;
+      justify-content: flex-end;
+      position: right;
       top: 0;
       right: 0;
-      transform: translate(-100%, 60%);
+      transform: translate(150%, 100%);
       font-size: 1.8rem;
       cursor: pointer;
+      /* height: 20px; */
+      /* width: 20px; */
     }
   
     .fa-angle-double-down {
-      color: #fff;
+      color: gold;
       font-size: 2rem;
+      /* height: 20px;
+      width: 20px; */
     }
     .fa-cocktail {
-        margin-left: 0.1rem;
-        font-size: 1.3rem;
-      }
-      .fa-hat-wizard {
+      color: gold;
         margin-left: 0.2rem;
         font-size: 1.3rem;
       }
-    
+      .fa-hat-wizard {
+        color: gold;
+        margin-left: 0.2rem;
+        font-size: 1.3rem;
+      }
+      .fa-bars {
+        color: gold;
+        height: 20px;
+        width: 20px;
+        /* position: relative; */
+      }
+    /* .nav-links-mobile {
+      display: block;
+      text-align: center;
+      margin: 2rem;
+      border-radius: 2px;
+      width: 80%;
+      text-decoration: none;
+      font-size: 1.5rem;
+      background-color: transparent;
+      color: #fff;
+      padding: 14px 20px;
+      border: 1px solid #fff;
+      transition: all 0.3s ease-out;
+    } 
+  
+     .nav-links-mobile:hover {
+      background: #fff;
+      color: #242424;
+      transition: 250ms;
+    } */
     .btn-mobile{
         display: flex;
     }
