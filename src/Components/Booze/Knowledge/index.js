@@ -5,6 +5,21 @@ import ImageV from '../../../images/Vodka.jpg'
 import ImageW from '../../../images/Whiskey.jpg'
 import ImageR from '../../../images/Rum.jpg'
 import ImageT from '../../../images/Tequila.jpg'
+
+// Import Files to links
+import brandy from '../Brandy/brandy'
+import gin from '../Gin/gin'
+import vodka from '../Vodka/vodka'
+import tequila from '../Mezcal-and-Tequila/tequila'
+import rum from '../Rum-Cachaca/rum'
+import whiskey from '../Whiskeys/whiskeys'
+import liqueurs from '../Liqueurs-Aperitifs-After-Dinner-Spirits/liqueurs'
+import preHistory from '../PreHistory/preHistory'
+import tools from '../Tools/tools'
+
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+
+
 /*function Template({ children, ...attrs }) {
     return (
       <template
@@ -14,6 +29,24 @@ import ImageT from '../../../images/Tequila.jpg'
     );
   } */
 function Knowledge() {
+
+
+  <Router>
+  <Switch>
+    <Route path='/brandy' exact component={brandy}/>
+    <Route path='/gin' exact component={gin}/>
+    <Route path='/vodka' exact component={brandy}/>
+    <Route path='/gin' exact component={gin}/>
+    <Route path='/vodka' exact component={vodka}/>
+            <Route path='/tequila' exact component={tequila}/>
+            <Route path='/rum' exact component={rum}/>
+            <Route path='/whiskey' exact component={whiskey}/>
+            <Route path='/liqueurs' exact component={liqueurs}/>
+            <Route path='/preHistory' exact component={preHistory}/>
+            <Route path='/tools' exact component={tools}/>
+</Switch>
+</Router>
+
     return (
       <>
         <div><h3>
@@ -27,7 +60,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Brandy
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/brandy" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>
@@ -39,7 +72,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Gin
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/gin" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>
@@ -51,7 +84,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Vodka
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/vodka" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>
@@ -63,7 +96,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Tequila
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/tequila" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>
@@ -75,7 +108,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Rum
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/rum" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>
@@ -87,7 +120,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Whiskey
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="url" className="hover:underline">Ingredients, Types, and History</a>
+          <a href="/whiskey" className="hover:underline">Ingredients, Types, and History</a>
         </h1>
       </div>
     </div>

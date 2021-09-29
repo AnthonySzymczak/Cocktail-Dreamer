@@ -1,4 +1,10 @@
-<script>
+import React from "react"
+
+function rum(){
+    return(
+
+        <>
+
 <div>
         <h1> RUM AND Cachaça</h1>
     </div>
@@ -203,4 +209,8 @@
     </p>
 </body>
 
-</script>
+        </>
+    )
+}
+
+export default rum;
