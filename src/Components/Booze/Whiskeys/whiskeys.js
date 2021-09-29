@@ -1,4 +1,10 @@
-<script>
+import React from 'react';
+
+
+function whiskey() {
+    return(
+
+        <>
 <div>
         <h1> WHISKEY</h1>
     </div>
@@ -378,4 +384,8 @@
     </p>
 </body>
 
-</script>
+</>
+)
+}
+
+export default whiskey;

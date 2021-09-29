@@ -1,4 +1,10 @@
-<script>
+import React from "react"
+
+function gin(){
+
+    return (
+        <>
+
 <div>
         <h1> GIN</h1>
     </div>
@@ -260,4 +266,8 @@ Gin should be clean and dry and not bitter and not sweet, unless it is a genever
 seems sweet from its powerfully malty character, and can indeed be gently sweet.
 </p>
 </body>
-</script>
+</>
+    )
+}
+
+export default gin;

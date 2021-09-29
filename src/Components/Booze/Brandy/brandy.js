@@ -1,9 +1,15 @@
-<script>
+import React from "react";
+
+function brandy() {
+
+    return (
+<>
+        
 <div>
         <h1> BRANDY</h1>
     </div>
     <div>
-        <title>Brandy</title>
+        {/* <title>Brandy</title> */}
 
 
         <h1>Brandy - What</h1>
@@ -331,4 +337,9 @@
                         </p>
 
                     </div>
-</script>
+                    </>
+
+    )
+}
+
+export default brandy;

@@ -1,8 +1,13 @@
-<script>
+import React from "react";
+
+function liqueurs(){
+
+    return(
+        <>
 <div>
         <h1> LIQUEURS AND APERITIFS </h1>
     </div>
-<body>
+
 
     <h1>Liqueurs - What</h1>
     <p>
@@ -221,5 +226,7 @@
     </p>
     
 
-</body>
-</script>
+    </>
+    )
+    }
+export default liqueurs;

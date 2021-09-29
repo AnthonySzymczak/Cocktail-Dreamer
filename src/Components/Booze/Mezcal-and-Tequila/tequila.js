@@ -1,8 +1,13 @@
-<script>
+import React from "react"
+
+function tequila(){
+    return(
+<>
+
 <div>
         <h1> TEQUILA AND MEZCAL</h1>
     </div>
-<body>
+
 
     <h1>Tequila and Mezcal - What</h1>
     <p>
@@ -183,5 +188,9 @@
         and other barrel/woody smells. Tequila can be very complex and powerful but it should be clean and dry and not
         bitter and not sweet.
     </p>
-</body>
-</script>
+
+</>
+    )
+}
+
+export default tequila;

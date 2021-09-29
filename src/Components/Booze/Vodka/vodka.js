@@ -1,4 +1,9 @@
-<script>
+import React from 'react';
+
+function vodka() {
+    return(
+
+        <>
     <div>
         <h1> VODKA</h1>
     </div>
@@ -172,4 +177,8 @@
     </p>
 </body>
 
-</script>
+</>
+)
+}
+
+export default vodka;
