@@ -136,7 +136,66 @@ db.once('open', async () => {
             name: 'Old-Fashioned [1800-1810]',
             description: 'By the 1860s, the original “Cock-Tail” of the beginning of the century had begun changing, and if that’s what you wanted, you had to order an “Old-Fashioned” cocktail.A very simple and satisfying drink, the Old-Fashioned is the choice of many cocktail aficionados. Here are two versions, the original, nineteenth century one, and the rather more lush twentieth century version. The Old-Fashioned Old-Fashioned , “My favorite version, and indeed my favorite cocktail of all time. I find it equally delicious if made with cognac or genever, both popular variations at the time when this drink was young.” David Wondrich',
             ingredients: '2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey 2-3 dashes Angostura bitters 1 sugar cube or a well-filled barspoon of superfine sugar Splash water or soda',
+            preperation: ' Muddle the sugar and the Angostura bitters in the splash of soda (about a barspoon—no more) until the sugar is dissolved, forming a syrup in the bottom of the glass. Add the whiskey and the ice, and stir. Garnish with a fresh twist of orange peel.'
+            
+        },
+        {
+            name: 'Old Fashioned (Muddled) [1910-1920]',
+            description: 'By 1915 or so, even the Old-Fashioned had begun changing; this is the version most people know today, and is Dale DeGroff’s preferred one.',
+            ingredients: '2 oz. Lot 40 Canadian Rye whisky 2-3 dashes Angostura bitters 1 sugar cube or a well-filled barspoon of superfine sugar 1 orange slice 1 maraschino cherry Splash water or soda',
+            preperation: ' Muddle the sugar, bitters, one orange slice, one cherry, and a splash of soda carefully in the bottom of an old-fashioned glass. Remove the orange rind, add whisky/bourbon and ice and stir thoroughly. Garnish with an orange slice and a cherry.'
+        },
+        {
+            name: 'Pisco Sour [1910-1920]',
+            description: 'Created by Victor Morris in Lima, Peru around 1915, the Pisco Sour has become the national drink of Peru—and of Chile, since both nations claim pisco as their own. The Pisco Sour is one of the drinks on the short list to step in as a global sensation when the Mojito falters.',
+            ingredients: '2 oz. Pisco 1 oz. fresh lime juice  1 oz. simple syrup Several drops of Angostura bitters 1 small egg white',
+            preperation: 'Shake all ingredients very hard with ice and strain into a small cocktail glass. Garnish with several drops of Angostura bitters on top of the foam created by the egg whites.'  
+        },
+        {
+            name: 'Sazerac [1870-1880]',
+            description: 'New Orleans’ world-famous and beloved twist on the Old-Fashioned is accented with the bitters compounded  by Antoine Amedee Peychaud in the mid-nineteenth century, who made a cognac cocktail by mixing them with Sazerac de Forge et Fils, the favorite cognac of the day. The drink took its modern form, with whiskey instead of cognac, in the 1880s, when Billy Wilkinson and Vincent Miret, the charismatic bartenders at the city’s Sazerac House, made their whiskey version famous.',
+            ingredients: '2 oz. straight rye whiskey 3-4 dashes Peychaud’s bitters Splash of Pernod 68 absinthe (or regular Pernod) ½ oz. simple syrup or 1 sugar cube and a tiny splash of water',
+            preperation: 'Take two small old-fashioned glasses and chill one with ice while preparing the drink in the other by combining the rye, syrup or sugar, and the bitters and stirring with ice (preferably cracked) to chill. Empty the first glass of its chilling ice, splash a little absinthe into it, swirl it around to coat the inside, and pour it out. Strain the contents of the second glass into it and twist the lemon peel over the top. Note: If you can’t find the Peychaud’s bitters, you can still make this delicious cocktail with Angostura or other bitters; you just can’t call it a Sazerac. You can, however, call it an Improved Whiskey Cocktail. That formula, virtually identical to the Sazerac but with different bitters, dates back to the 1870s. For an improved cocktail, add a barspoon of Grand Marnier or maraschino liqueur.' 
+        },
+        {
+            name: 'Sidecar [1920-1930]',
+            description: 'The ultimate Art-Deco cocktail. A French creation of the early 1920s, the Sidecar was soon adopted by sophisticated barflies everywhere.',
+            ingredients: '1½ oz. Martell VS or VSOP cognac ¾ oz. Cointreau ½ to ¾ oz. fresh lemon juice',
+            preperation: 'Shake all ingredients with ice and strain into a cocktail glass with sugared rim. Garnish with an orange peel.'
+        },
+        {
+            name: 'Stinger [1890-1900]',
+            description: 'This classic New York nightcap—a rich man’s drink if ever there was one—goes back to the 1890s, an adult after-dinner mint that surprises with its refreshing taste. But remember there is only one drink that can follow a Stinger. . . another Stinger!',
+            ingredients: '2¼ oz. Martell VS, VSOP or Cordon Bleu cognac ¾ oz. white crème de menthe',
+            preperation: 'Shake both ingredients with ice and strain into an old fashioned glass filled with crushed ice or serve up in a chilled cocktail glass. Note: This is an exception to the rule that drinks with only liquors and liqueur should be stirred and also that proportions of the two ingredients can vary, many people preferring less crème de menthe and more cognac (David Wondrich recommends 2¼ ounces cognac to ¾ ounce crème de menthe).'
+        },
+        {
+            name: 'Whiskey Sour [1850-1860]',
+            description: 'This simple concoction has been satisfying thirsts for a century and a half. It’s also an excellent base for experimentation.',
+            ingredients: '1½ oz. bourbon or rye whiskey—or indeed any other kind of whiskey ¾ oz. simple syrup ¾ oz. fresh lemon juice',
+            preperation: 'Shake all ingredients with ice and strain into an old-fashioned glass or a special sour glass. Garnish with a flag (an orange slice and a cherry). This drink is equally delicious when made with Irish whiskey. Some brave souls even like theirs with Scotch.'
             
         }
     ]);
+    console.log('cocktails seeded!');
+
+    await User.deleteMany();
+
+    await User.create({
+        firstName:'Jason',
+        lastName:'Bourne',
+        email:'omgitsjasonbourne@gmail.com',
+        password: 'password12345'
+    });
+
+    await User.create({
+        firstName: 'Elijah',
+        lastName: 'Holt',
+        email: 'eholt@testmail.com',
+        password: 'password12345'
+      });
+    
+      console.log('users seeded');
+    
+      process.exit();
 });
