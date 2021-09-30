@@ -110,7 +110,33 @@ db.once('open', async () => {
         },
         {
             name: 'Classic Extra Dry Martini (as it was made from 1950 on) [1950-1960]',
-           ingredients: '3 oz. Beefeater London dry gin or Absolut vodka ,1/8 oz. dry French vermouth '
+           ingredients: '3 oz. Beefeater London dry gin or Absolut vodka ,1/8 oz. dry French vermouth ',
+           preperation: 'Prepare a tall mixing glass with ice. Pour vermouth over ice and swirl to season, then strain off vermouth. Pour gin or vodka over seasoned ice and stir to chill. Strain into a chilled martini glass. Garnish traditionally with a small pitted Spanish cocktail olive (no pimento).'
+        },
+        {
+            name: 'Mint Julep [1790-1800]',
+            description: 'The great American classic, first recorded in 1793. Before the American Civil War, the favorite spirit to use in a Mint Julep was not whiskey, but rather old French cognac, often with a little Jamaican rum floated on top. After the Civil War, however, it became almost exclusively a whiskey drink. Either way, if it is made properly, there are few more delicious cocktails, particularly on a warm day.',
+            ingredients: '2½ oz. straight bourbon or rye whiskey, or Martell VSOP cognac , 1 oz. simple syrup or 2 teaspoons superfine sugar,2 to 4 sprigs of mint (use tender, young sprigs, since they last longer and look better) ',
+            preperation: 'Put the simple syrup or the sugar and ½ oz. water in the bottom of a highball glass. Add 5 or 6 mint leaves (from the bottom of the sprig) and press lightly with a muddler. Add half of the spirits and fill with crushed or finely cracked ice. Swirl with a barspoon until the outside of the glass frosts. Add more crushed ice and the remaining liquor. Stir again to frost the glass. Garnish with at least 1 sprig of mint, and preferably 3. Add a straw.'
+        },
+        {
+            name: 'Mojito [1920-1930]',
+            description: 'This Cuban creation from the early years of the twentieth century has become the first breakout drink of the twenty-first.',
+            ingredients: '1½ oz. white rum, ¾ oz. fresh lime juice, ¾ oz. simple syrup,1 mint sprig and 4 mint leaves (use tender, young mint tops; peppermint is best because it doesn’t wilt and retains its shape). 1 oz. soda ',
+            preperation: 'In a mixing glass muddle mint leaves with simple syrup. Add lime juice and rum and fill with ice. Shake vigorously and strain over fresh ice into a highball glass. Top with soda and garnish with a fresh mint sprig. -or- Muddle the mint leaves gently with the simple syrup and the lime juice in the bottom of a highball glass. Add the rum, stir, add ice and top with no more than two oz. of club soda. Garnish with a generous sprig of mint.'
+        },
+        {
+            name: 'Negroni [1910-1920]',
+            description: 'Camillo Negroni (1868-1934) was a Florentine count who had spent time as a cowboy in the old West and a gambler in New York. When he returned to Florence, in the 1910s, he had the bartender at the Bar Casoni mix these up for him.',
+            ingredients: '1 oz. Beefeater London dry gin , 1 oz. Campari , 1 oz. Italian sweet vermouth',
+            preperation: ' Combine all ingredients in an iced old-fashioned glass and stir. Garnish with an orange peel or orange slice. The count liked his topped with a splash— say, an ounce or so—of soda. Others prefer theirs served straight up, in which case it should be stirred with ice, strained into a chilled cocktail glass and garnished with the peel, not the slice.'
+            
+        },
+        {
+            name: 'Old-Fashioned [1800-1810]',
+            description: 'By the 1860s, the original “Cock-Tail” of the beginning of the century had begun changing, and if that’s what you wanted, you had to order an “Old-Fashioned” cocktail.A very simple and satisfying drink, the Old-Fashioned is the choice of many cocktail aficionados. Here are two versions, the original, nineteenth century one, and the rather more lush twentieth century version. The Old-Fashioned Old-Fashioned , “My favorite version, and indeed my favorite cocktail of all time. I find it equally delicious if made with cognac or genever, both popular variations at the time when this drink was young.” David Wondrich',
+            ingredients: '2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey 2-3 dashes Angostura bitters 1 sugar cube or a well-filled barspoon of superfine sugar Splash water or soda',
+            
         }
     ]);
 });
