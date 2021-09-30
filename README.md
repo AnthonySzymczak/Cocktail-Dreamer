@@ -28,7 +28,10 @@ MIT license
     
   
 ## Contributors
+Isaac Harris
+Mervens Victor
 Anthony Szymczak
+
 ## Tests
 
 # Questions
