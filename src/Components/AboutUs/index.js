@@ -11,8 +11,8 @@ function AboutUs() {
             image of yourself
           </div>
           <p>
-            Talk about your passions, where you come from, brief history of you
-            the creator
+            Born in 1993, Worcester Massachusetts, to two Polish Immigrant parents. His passion for computers started when we was eleven years old when World of warcraft was released.
+            A bartender for the last ten years, he hopes to truly achieve excellence in a new developer field rather than always being behind a bar.
           </p>
         </div>
 
