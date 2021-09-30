@@ -17,7 +17,7 @@ import liqueurs from '../Liqueurs-Aperitifs-After-Dinner-Spirits/liqueurs'
 import preHistory from '../PreHistory/preHistory'
 import tools from '../Tools/tools'
 
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Switch, Route, Link} from 'react-router-dom';
 
 
 /*function Template({ children, ...attrs }) {
@@ -60,7 +60,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Brandy
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/brandy" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/brandy" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
@@ -72,7 +72,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Gin
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/gin" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/gin" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
@@ -84,7 +84,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Vodka
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/vodka" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/vodka" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
@@ -96,7 +96,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Tequila
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/tequila" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/tequila" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
@@ -108,7 +108,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Rum
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/rum" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/rum" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
@@ -120,7 +120,7 @@ function Knowledge() {
         <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Whiskey
         </h2>
         <h1 className="font-bold text-blue-700 leading-snug">
-          <a href="/whiskey" className="hover:underline">Ingredients, Types, and History</a>
+          <Link to="/whiskey" className="hover:underline">Ingredients, Types, and History</Link>
         </h1>
       </div>
     </div>
