@@ -203,14 +203,23 @@ function Knowledge() {
         </div>
       </div>
       <div>
-        <img className="photo" src={ImageT} alt="Tequila bottle" />
-        <div className='mt-2'>
-          <div>
-            <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Tequila
-            </h2>
-            <h1 className="font-bold text-blue-700 leading-snug">
-              <Link to="/tequila" className="hover:underline">Let's Celebrate, Tequila!</Link>
-            </h1>
+        <div>
+          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                <img className="photo rounded-lg" src={ImageR} alt="Rum" />
+                <div className='mt-2'>
+                  <div class="max-w-md mx-auto">
+                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Rum
+                    </h2>
+                    <h1 className="font-bold text-blue-700 leading-snug">
+                      <Link to="/rum" className="hover:underline">Becoming a Beach Bum?</Link>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
