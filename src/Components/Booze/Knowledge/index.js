@@ -167,11 +167,10 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Vodka</h2>
                 <img className="photo rounded-lg" src={ImageV} alt="Vodka" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Vodka
-                    </h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
                       <Link to="/vodka" className="hover:underline">Dive in, Vodka..!</Link>
                     </h1>
@@ -188,11 +187,10 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Tequila</h2>
                 <img className="photo rounded-lg" src={ImageT} alt="Tequila" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Tequila
-                    </h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
                       <Link to="/tequila" className="hover:underline">Let's Celebrate Tequila!!</Link>
                     </h1>
@@ -230,7 +228,7 @@ function Knowledge() {
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
                     <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Whiskey</h2>
-                <img className="photo rounded-lg" src={ImageW} alt="Whiskey Bottle" />
+                    <img className="photo rounded-lg" src={ImageW} alt="Whiskey Bottle" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
                     <h1 className="font-bold text-blue-700 leading-snug">
