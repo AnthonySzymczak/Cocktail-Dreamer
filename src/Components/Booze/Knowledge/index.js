@@ -140,26 +140,44 @@ function Knowledge() {
         </div>
       </div>
       <div>
-        <img className="photo" src={ImageB} alt="Brandy bottle" />
-        <div className='mt-2'>
-          <div>
-            <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Brandy
-            </h2>
-            <h1 className="font-bold text-blue-700 leading-snug">
-              <Link to="/brandy" className="hover:underline">Dive in, Brandy..</Link>
-            </h1>
+        <div>
+          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                <img className="photo rounded-lg" src={ImageG} alt="Gin Bottle" />
+                <div className='mt-2'>
+                  <div class="max-w-md mx-auto">
+                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Gin
+                    </h2>
+                    <h1 className="font-bold text-blue-700 leading-snug">
+                      <Link to="/gin" className="hover:underline">Grab your Tuxedo, Gin..</Link>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
       <div>
-        <img className="photo" src={ImageG} alt="Gin bottle" />
-        <div className='mt-2'>
-          <div>
-            <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Gin
-            </h2>
-            <h1 className="font-bold text-blue-700 leading-snug">
-              <Link to="/gin" className="hover:underline">Grab your Tuxedo, Gin..</Link>
-            </h1>
+        <div>
+          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                <img className="photo rounded-lg" src={ImageV} alt="Vodka" />
+                <div className='mt-2'>
+                  <div class="max-w-md mx-auto">
+                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Vodka
+                    </h2>
+                    <h1 className="font-bold text-blue-700 leading-snug">
+                      <Link to="/vodka" className="hover:underline">Dive in, Vodka..!</Link>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
