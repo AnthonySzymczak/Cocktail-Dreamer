@@ -224,35 +224,29 @@ function Knowledge() {
         </div>
       </div>
       <div>
-        <img className="photo" src={ImageR} alt="Rum bottle" />
-        <div className='mt-2'>
-          <div>
-            <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Rum
-            </h2>
-            <h1 className="font-bold text-blue-700 leading-snug">
-              <Link to="/rum" className="hover:underline">Becoming a beach bum?</Link>
-            </h1>
+        <div>
+          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                <img className="photo" src={ImageW} alt="Whiskey Bottle" />
+                <div className='mt-2'>
+                  <div class="max-w-md mx-auto">
+                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Whiskey
+                    </h2>
+                    <h1 className="font-bold text-blue-700 leading-snug">
+                      <Link to="/whiskey" className="hover:underline">Dive in, Whiskey..</Link>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
-      <div>
-        <img className="photo" src={ImageW} alt="Whiskey bottle" />
-        <div className='mt-2'>
-          <div>
-            <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Whiskey
-            </h2>
-            <h1 className="font-bold text-blue-700 leading-snug">
-              <Link to="/whiskey" className="hover:underline">Dive in, Whiskey..</Link>
-            </h1>
-          </div>
-        </div>
-      </div>
+     
     </>
   );
 };
-/*   <div className="flex items-center justify-between w-full">
-   <div className="flex flex-col lg:flex-row w-full items-start lg:items-center rounded bg-white shadow">
-       <div className="w-full lg:w-2/3 h-64 dark:bg-gray-800">Let me Test</div>
-       <div className="w-full lg:w-1/3 h-24 dark:border-gray-700 lg:h-64 border-t lg:border-t-0 lg:border-r lg:border-l lg:rounded-r dark:bg-gray-700 bg-gray-100">The text here</div>
-   </div> */
+
 export default Knowledge;
