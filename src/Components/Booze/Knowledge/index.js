@@ -59,9 +59,14 @@ function Knowledge() {
   return (
     <>
     
+    
+    
       <div class="text-center text-outline-black text-4xl font-bold text-blue-600 min-h-half bg-gray-100 ">
         <h1>Enhance your knowledge</h1>
       </div>
+    
+    {/* Pre history card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -83,6 +88,8 @@ function Knowledge() {
         </div>
       </div>
 
+{/* Tools Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -103,6 +110,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* Brandy Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -123,6 +133,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* Gin Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -143,6 +156,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* Vodka Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -163,6 +179,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* TEQUILA!! card. */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -183,6 +202,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* Rum Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -203,6 +225,9 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+{/* Whiskey Card */}
+
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -223,6 +248,8 @@ function Knowledge() {
           </div>
         </div>
       </div>
+
+      {/* Liqueurs, Aperitifs, Digestifs card */}
      
       <div>
         <div>
