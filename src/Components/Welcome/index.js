@@ -10,9 +10,11 @@ function Welcome() {
       <div className="Welcome2">
         <h3>Welcome to Cocktail Dreamer, Login to get started.</h3>
         <Login />
+      <img src={coverImage} className="my-2 w-full h-full bg-left bg-cover bg-fixed" alt="cover" />
         <Signup />
       </div>
-      <img src={coverImage} className="my-2" style={{ width: "60%" }} alt="cover" />
+      {/* <div class="w-full h-full bg-no-repeat bg-cover bg-left bg-fixed" style="background-image: url('src\images\Bar.jpg')"> */}
+      {/* </div> */}
     </div>
   );
 }
