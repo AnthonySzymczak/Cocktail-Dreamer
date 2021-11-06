@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+// image declaration
 import ImageB from '../../../images/Brandy.jpg'
 import ImageG from '../../../images/Gin.jpg'
 import ImageV from '../../../images/Vodka.jpg'
@@ -22,7 +22,10 @@ import liqueurs from '../Liqueurs-Aperitifs-After-Dinner-Spirits/liqueurs'
 import preHistory from '../PreHistory/preHistory'
 import tools from '../Tools/tools'
 
+//Declaration to use Routing, Switches, and Links
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
+
+//import Css styling
 import "./Knowledge.css";
 
 
@@ -34,9 +37,11 @@ import "./Knowledge.css";
       />
     );
   } */
+
+  //Function Declaration fot the Knowledge page.
 function Knowledge() {
 
-
+//Pathing for all the knowledge pages.
   <Router>
     <Switch>
       <Route path='/brandy' exact component={brandy} />
@@ -53,9 +58,10 @@ function Knowledge() {
 
   return (
     <>
-      <div><h3>
-        Scroll down and read up on some of the most popular drinks around the world.
-      </h3></div>
+    
+      <div class="text-center text-outline-black text-4xl font-bold text-blue-600 min-h-half bg-gray-100 ">
+        <h1>Enhance your knowledge</h1>
+      </div>
       <div>
         <div>
           <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -105,31 +111,10 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
-                <img className="photo rounded-lg" src={ImageCha} alt="Liqueurs" />
-                <div className='mt-2'>
-                  <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Liqueurs, Aperitifs, Digestifs!
-                    </h2>
-                    <h1 className="font-bold text-blue-700 leading-snug">
-                      <Link to="/liqueurs" className="hover:underline">Liqueurs, Aperitifs, Digestifs!</Link>
-                    </h1>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div>
-        <div>
-          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
-            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
-              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
-              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Brandy</h2>
                 <img className="photo rounded-lg" src={ImageB} alt="Brandy" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Brandy</h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
                       <Link to="/brandy" className="hover:underline">Dive in, Brandy..</Link>
                     </h1>
@@ -146,11 +131,10 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Gin</h2>
                 <img className="photo rounded-lg" src={ImageG} alt="Gin Bottle" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Gin
-                    </h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
                       <Link to="/gin" className="hover:underline">Grab your Tuxedo, Gin..</Link>
                     </h1>
@@ -242,6 +226,26 @@ function Knowledge() {
         </div>
       </div>
      
+      <div>
+        <div>
+          <div class="min-h-half bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
+            <div class="relative py-3 sm:max-w-xl sm:mx-auto">
+              <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
+              <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    {/* <h2 className="text-center text-l text-blue-600 uppercase font-bold">Liqueurs, Aperitifs, Digestifs!</h2> */}
+                <img className="photo rounded-lg" src={ImageCha} alt="Liqueurs" />
+                <div className='mt-2'>
+                  <div class="max-w-md mx-auto">
+                    <h1 className="font-bold text-blue-700 leading-snug">
+                      <Link to="/liqueurs" className="hover:underline">Liqueurs, Aperitifs, Digestifs!</Link>
+                    </h1>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 };
