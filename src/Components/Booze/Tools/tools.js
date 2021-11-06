@@ -14,7 +14,7 @@ function tools() {
                         century and a half, an eloquent testimonial to the basic simplicity and efficiency of each item. With one or two
                         exceptions, though, we don’t know who to credit for any of the tools.</p>
 
-                    <h1>The Muddler</h1>
+                    <h2>The Muddler</h2>
 
                     <p>The oldest item in the kit (besides the garnish knife, which is as old as the hills) is the muddler, which goes back to
                         the time of the American Revolution.
@@ -27,7 +27,7 @@ function tools() {
                         fondly remembered by old-timers once it was supplanted by other tools. Toddy sticks were usually made of hardwood, but
                         examples made from silver or even gold were not unheard of.</p>
 
-                    <h1>The Boston Shaker</h1>
+                    <h2>The Boston Shaker</h2>
 
                     <p>After ice made its way into the standard bar drinks in the 1830s, the barkeeper suddenly needed a set of picks, mallets
                         and scoops to separate the quantity needed from the large, unwieldy blocks it was sold in and get it into his customer’s
@@ -68,7 +68,7 @@ function tools() {
                         with its mixing tin, cover with built-in strainer and sealing cap, has been subject to countless refinements, but when
                         all is said and done most bartenders still prefer the flexibility, simplicity and cheapness of the old Boston shaker.</p>
 
-                    <h1>The Julep and Hawthorne Strainers</h1>
+                    <h2>The Julep and Hawthorne Strainers</h2>
 
                     <p>With the Boston shaker, you need a strainer. The nineteenth century saw two kinds developed. The simplest and oldest
                     goes back to the middle of the century, when bartenders began using perforated, scallop shell shaped tea-strainers to
@@ -83,7 +83,7 @@ function tools() {
                 <p>Tradition-minded mixologists will use the julep strainer for drinks stirred in the mixing glass and the Hawthorne
                     strainer for shaken drinks, which are poured from the mixing tin.</p>
 
-                <h1>The Barspoon</h1>
+                <h2>The Barspoon</h2>
 
                 <p>Not all drinks are shaken; traditionally, some are stirred. This custom goes back to the end of the nineteenth century,
                     when the art of mixing drinks made another one of its periodic turns of the wheel. The shaking that had been so modern a
@@ -101,7 +101,7 @@ function tools() {
                     was originally a French design, the disc being used for crushing sugar to make eau sucrée or sugar-water, popular in the
                     nineteenth century.</p>
 
-                <h1>The Jigger</h1>
+                <h2>The Jigger</h2>
 
                 <p>Great bartenders have always recognized the importance of accurate measuring, particularly when it comes to making
                     complex cocktails. Originally, bartenders used standard glassware for this purpose. The base measure was a “wineglass,”
@@ -117,13 +117,13 @@ function tools() {
                     bar, you make sure that all, say, ½ ounce jiggers are indeed precisely one-half ounce. Test your jiggers for accuracy.
                     8:45</p>
 
-                <h1>Juicers</h1>
+                <h2>Juicers</h2>
 
                 <p>We won’t get into the history of the juicer here beyond observing that the modern two-handled hand version has been in
                     use in one form or another for well over a century (the earliest were made of wood or cast iron and porcelain) and is
                     still the best way to produce juice to order.</p>
 
-                <h1>Other Tools</h1>
+                <h3>Other Tools</h3>
 
                 <p>These are not of course the only tools a serious mixologist will be familiar with. A truly comprehensive bar kit will
                     include dozens of other items, from simple things like knives of various sizes, a cherry pitter, a fine mesh strainer

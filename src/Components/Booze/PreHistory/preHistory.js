@@ -4,7 +4,8 @@ function preHistory(){
 
     return(
 <>
-
+            <h1>In the beginning...</h1>
+            
     <p>In 700 B.C., when guests at the funeral of King Midas of Phrygia (in what is modern Turkey) were served a mixture
     of wine, mead—fermented honey-water—and barley beer, the mixed drink was already ancient. </p>
 <p>Since the dawn of history, people have been taking one liquid and another liquid and asking themselves “what
