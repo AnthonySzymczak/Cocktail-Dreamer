@@ -68,13 +68,12 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Pre-History </h2>
                 <img className="photo rounded-lg" src={ImageP} alt="PreHistory" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Pre-History
-                    </h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
-                      <Link to="/preHistory" className="hover:underline">A brief Pre-History</Link>
+                      <Link to="/preHistory" className="text-center justify-center hover:underline">A brief Pre-History</Link>
                     </h1>
                   </div>
                 </div>
@@ -90,11 +89,10 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
+                    <h2 className="text-center text-xl text-blue-600 uppercase font-bold">Tools </h2>
                 <img className="photo rounded-lg" src={ImageTools} alt="Tools" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
-                    <h2 className="justify-center text-xs text-blue-600 uppercase font-bold">Tools
-                    </h2>
                     <h1 className="font-bold text-blue-700 leading-snug">
                       <Link to="/tools" className="hover:underline">Upgrade your craft!</Link>
                     </h1>
@@ -232,7 +230,7 @@ function Knowledge() {
             <div class="relative py-3 sm:max-w-xl sm:mx-auto">
               <div class="absolute inset-0 bg-gradient-to-r from-cyan-400 to-sky-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
               <div class="relative px-4 py-10 bg-white shadow-lg sm:rounded-3xl sm:p-20">
-                    {/* <h2 className="text-center text-l text-blue-600 uppercase font-bold">Liqueurs, Aperitifs, Digestifs!</h2> */}
+                    <h2 className="text-center text-2xl text-blue-600 uppercase font-bold">L.A.D.</h2>
                 <img className="photo rounded-lg" src={ImageCha} alt="Liqueurs" />
                 <div className='mt-2'>
                   <div class="max-w-md mx-auto">
