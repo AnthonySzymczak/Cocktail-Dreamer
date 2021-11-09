@@ -124,7 +124,7 @@ function Cocktails() {
                         <h2>
                             5) Caipirinha [1930-1940], Caipirissima, Caipiroska [1960-1970]
                         </h2>
-<br />
+                        <br />
                         <p>The national drink of Brazil, and party animals everywhere.</p>
                         <br />
                         <p>Ingredients:</p>
@@ -342,281 +342,307 @@ function Cocktails() {
             <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    14) Manhattan [1870-1880]/Rob Roy [1890- 1900]/Emerald [1900-1910]
-                </h2>
-<br />
-                <p> Make it with Scotch, and you’ve got a Rob Roy,
-                first introduced in 1895, probably at New York’s Fifth-Avenue Hotel. Make it with Irish whiskey, and it’s an Emerald (there are other names as well),
-                which was a specialty of the Irish-staffed bar of the Waldorf-Astoria Hotel, just a few blocks up the street.</p>
-<br />
+                        <h2>
+                            14) Manhattan [1870-1880]/Rob Roy [1890- 1900]/Emerald [1900-1910]
+                        </h2>
+                        <br />
+                        <p> Make it with Scotch, and you’ve got a Rob Roy,
+                            first introduced in 1895, probably at New York’s Fifth-Avenue Hotel. Make it with Irish whiskey, and it’s an Emerald (there are other names as well),
+                            which was a specialty of the Irish-staffed bar of the Waldorf-Astoria Hotel, just a few blocks up the street.</p>
+                        <br />
 
-                <p>Ingredients:</p>
-                <br />
-                <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey</li>
-                <li class="list-disc list-style-type: disc">1 oz. Italian sweet vermouth</li>
-                <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
-<br />
-                <p>Preparation: Pour all ingredients over ice in a mixing glass and stir as you would a Martini. Strain into a chilled cocktail glass. Garnish with a cherry, although many discriminating drinkers prefer theirs with a twist. Note: If you prefer a dry Manhattan, use dry vermouth and garnish with a lemon peel. For a Perfect Manhattan, use ½ oz. each of dry and sweet vermouth and, again, deploy the peel.</p>
-<br />
-                <p>Note: For a Rob Roy, replace the bourbon or rye with a good blended Scotch whiskey, such as Chivas Regal. Many prefer orange bitters in this, with an orange twist at the end. For an Emerald, replace the American whiskey with a rich Irish one, such as John Powers or Redbreast. Many prefer orange bitters and an orange twist here, too.</p>
-            </div>
-            </div>
-            </div>
-
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    15) Margarita [1930-1940]
-                </h2>
-<br />
-                <p>There aren’t a lot of essential tequila cocktails, but this one more than makes up for it. A child of the 1930s, the Margarita has grown up into one of the most popular cocktails of them all, and not without reason.</p>
-<br />
-
-                <p>Ingredients:</p> 
-                <br />
-                <li class="list-disc list-style-type: disc">2 oz. Olmeca Altos Plata or Tequila Avión Silver</li>
-                <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
-                <li class="list-disc list-style-type: disc">½ oz. agave nectar</li>
-                <li class="list-disc list-style-type: disc">( ½ oz. simple syrup is optional but necessary for many guests.)</li>
-                <li class="list-disc list-style-type: disc">Coarse salt</li>
-<br />
-<p>Preparation: Combine first three ingredients in a mixing glass with ice. Shake well and strain into a chilled salt- rimmed cocktail glass. Garnish with a lime wedge. Salting the rim: Frost the edge of the cocktail glass by rubbing a lime wedge on the outside rim of the glass, then dipping it into a saucer of coarse salt. Salt inside the glass is not a desirable outcome of this process. Note: Never use iodized salt on the rim of the glass.</p>
-            </div>
-            </div>
-            </div>
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    16) Dry Martini [1890-1900]
-                </h2>
-<br />
-<p>Nothing needs to be said for the Martini: it speaks for itself. The standard recipe from about 1895 to 1915.</p>
-<br />
-                <p>Ingredients:</p>
-                <li class="list-disc list-style-type: disc">1½ oz. Beefeater London dry gin</li>
-                <li class="list-disc list-style-type: disc">1½ oz. French dry vermouth</li>
-                <li class="list-disc list-style-type: disc">1 or 2 dashes orange bitters</li>
-<br />
-                <p>Preparation: Stir all ingredients with ice to chill and twist orange peel or lemon peel over the top.</p>
-
-<br />
-                <p>Classic Extra Dry Martini (as it was made from 1950 on) [1950-1960]</p>
-                <br />
-                <p>Ingredients:</p>
-                <li class="list-disc list-style-type: disc">3 oz. Beefeater London dry gin or Absolut vodka</li>
-                <li class="list-disc list-style-type: disc">1/8 oz. dry French vermouth</li>
-<br />
-                <p>Preparation: Prepare a tall mixing glass with ice. Pour vermouth over ice and swirl to season, then strain off vermouth. Pour gin or vodka over seasoned ice and stir to chill. Strain into a chilled martini glass. Garnish traditionally with a small pitted Spanish cocktail olive (no pimento).</p>
-            </div>
-            </div>
-            </div>
-
-
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    17 ) Mint Julep [1790-1800]
-                </h2>
-<br />
-                <p>The great American classic, first recorded in 1793. Before the American Civil War, the favorite spirit to use in a Mint Julep was not whiskey, but rather old French cognac, often with a little Jamaican rum floated on top. After the Civil War, however, it became almost exclusively a whiskey drink. Either way, if it is made properly, there are few more delicious cocktails, particularly on a warm day.</p>
-
-<br />
-                <p>Ingredients:</p>
-                <br />
-                <li class="list-disc list-style-type: disc">2½ oz. straight bourbon or rye whiskey, or Martell VSOP cognac</li>
-                <li class="list-disc list-style-type: disc">1 oz. simple syrup or 2 teaspoons superfine sugar</li>
-                <li class="list-disc list-style-type: disc">2 to 4 sprigs of mint (use tender, young sprigs, since they last longer and look better)</li>
-<br />
-                <p>Preparation: Put the simple syrup or the sugar and ½ oz. water in the bottom of a highball glass. Add 5 or 6 mint leaves (from the bottom of the sprig) and press lightly with a muddler. Add half of the spirits and fill with crushed or finely cracked ice. Swirl with a barspoon until the outside of the glass frosts. Add more crushed ice and the remaining liquor. Stir again to frost the glass. Garnish with at least 1 sprig of mint, and preferably 3. Add a straw.</p>
-            </div>
-            </div>
-            </div>
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    18) Mojito [1920-1930]
-                </h2>
-<br />
-               <p> This Cuban creation from the early years of the twentieth century has become the first breakout drink of the twenty-first.</p>
-<br />
-
-                <p>Ingredients:</p>
-                <li class="list-disc list-style-type: disc">1½ oz. white rum</li>
-                <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
-                <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
-                <li class="list-disc list-style-type: disc">1 mint sprig and 4 mint leaves (use tender, young mint tops; peppermint is best because it doesn’t wilt and retains its shape).</li>
-                <li class="list-disc list-style-type: disc">1 oz. soda</li>
-<br />
-                <p>Preparation: In a mixing glass muddle mint leaves with simple syrup. Add lime juice and rum and fill with ice. Shake vigorously and strain over fresh ice into a highball glass. Top with soda and garnish with a fresh mint sprig.</p>
-<br />
-                <p>-or-</p>
-<br />
-                <p>Muddle the mint leaves gently with the simple syrup and the lime juice in the bottom of a highball glass. Add the rum, stir, add ice and top with no more than two oz. of club soda. Garnish with a generous sprig of mint.</p>
-            </div>
-            </div>
-            </div>
-
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    19) Negroni [1910-1920]
-                </h2>
-<br />
-                <p>Camillo Negroni (1868-1934) was a Florentine count who had spent time as a cowboy in the old West and a gambler in New York. When he returned to Florence, in the 1910s, he had the bartender at the Bar Casoni mix these up for him.</p>
-<br />
-                <p>Ingredients:</p>
-                <br />
-                <li class="list-disc list-style-type: disc">1 oz. Beefeater London dry gin</li>
-                <li class="list-disc list-style-type: disc">1 oz. Campari</li>
-                <li class="list-disc list-style-type: disc">1 oz. Italian sweet vermouth</li>
-<br />
-                <p>Preparation: Combine all ingredients in an iced old-fashioned glass and stir. Garnish with an orange peel or orange slice. The count liked his topped with a splash— say, an ounce or so—of soda. Others prefer theirs served straight up, in which case it should be stirred with ice, strained into a chilled cocktail glass and garnished with the peel, not the slice.</p>
-            </div>
-            </div>
-            </div>
-
-
-
-            <div class="container mx-auto flex flex-wrap items-start my-16">
-                <div class="lg:w-1/4 w-full lg:pr-3">
-                    <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    20) Old-Fashioned [1800-1810]
-                </h2>
-                <br />
-                <p>
-                    By the 1860s, the original “Cock-Tail” of the beginning of the century had begun changing, and if that’s what you wanted, you had to order an “Old-Fashioned” cocktail.
-                    A very simple and satisfying drink, the Old-Fashioned is the choice of many cocktail aficionados. Here are two versions, the original, nineteenth century one, and the rather more lush twentieth century version.</p>
-<br />
-
-                    <p>The Old-Fashioned Old-Fashioned</p>
-<br />
-                    <p>Ingredients:</p>
-                    <br />
-                    <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey</li>
-                    <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
-                    <li class="list-disc list-style-type: disc">1 sugar cube or a well-filled barspoon of superfine sugar</li>
-                    <li class="list-disc list-style-type: disc">Splash water or soda</li>
-<br />
-
-                    <p>Preparation: Muddle the sugar and the Angostura bitters in the splash of soda (about a barspoon—no more) until the sugar is dissolved, forming a syrup in the bottom of the glass.
-                    Add the whiskey and the ice, and stir. Garnish with a fresh twist of orange peel.</p>
-<br />
-
-                
-
-                    <p>Old Fashioned (Muddled) [1910-1920]</p>
-<br />
-                    <p>Ingredients:</p>
-                    <br />
-                    <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky</li>
-                    <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
-                    <li class="list-disc list-style-type: disc">1 sugar cube or a well-filled barspoon of superfine sugar</li>
-                    <li class="list-disc list-style-type: disc">1 orange slice</li>
-                    <li class="list-disc list-style-type: disc">1 maraschino cherry</li>
-                    <li class="list-disc list-style-type: disc">Splash water or soda</li>
-<br />
-                    <p>Preparation: Muddle the sugar, bitters, one orange slice, one cherry, and a splash of soda carefully in the bottom of an old-fashioned glass. Remove the orange rind, add whisky/bourbon and ice and stir thoroughly. Garnish with an orange slice and a cherry.</p>
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey</li>
+                        <li class="list-disc list-style-type: disc">1 oz. Italian sweet vermouth</li>
+                        <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
+                        <br />
+                        <p>Preparation: Pour all ingredients over ice in a mixing glass and stir as you would a Martini. Strain into a chilled cocktail glass. Garnish with a cherry, although many discriminating drinkers prefer theirs with a twist. Note: If you prefer a dry Manhattan, use dry vermouth and garnish with a lemon peel. For a Perfect Manhattan, use ½ oz. each of dry and sweet vermouth and, again, deploy the peel.</p>
+                        <br />
+                        <p>Note: For a Rob Roy, replace the bourbon or rye with a good blended Scotch whiskey, such as Chivas Regal. Many prefer orange bitters in this, with an orange twist at the end. For an Emerald, replace the American whiskey with a rich Irish one, such as John Powers or Redbreast. Many prefer orange bitters and an orange twist here, too.</p>
+                    </div>
                 </div>
+            </div>
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            15) Margarita [1930-1940]
+                        </h2>
+                        <br />
+                        <p>There aren’t a lot of essential tequila cocktails, but this one more than makes up for it. A child of the 1930s, the Margarita has grown up into one of the most popular cocktails of them all, and not without reason.</p>
+                        <br />
+
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Olmeca Altos Plata or Tequila Avión Silver</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
+                        <li class="list-disc list-style-type: disc">½ oz. agave nectar</li>
+                        <li class="list-disc list-style-type: disc">( ½ oz. simple syrup is optional but necessary for many guests.)</li>
+                        <li class="list-disc list-style-type: disc">Coarse salt</li>
+                        <br />
+                        <p>Preparation: Combine first three ingredients in a mixing glass with ice. Shake well and strain into a chilled salt- rimmed cocktail glass. Garnish with a lime wedge. Salting the rim: Frost the edge of the cocktail glass by rubbing a lime wedge on the outside rim of the glass, then dipping it into a saucer of coarse salt. Salt inside the glass is not a desirable outcome of this process. Note: Never use iodized salt on the rim of the glass.</p>
+                    </div>
                 </div>
+            </div>
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            16) Dry Martini [1890-1900]
+                        </h2>
+                        <br />
+                        <p>Nothing needs to be said for the Martini: it speaks for itself. The standard recipe from about 1895 to 1915.</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. Beefeater London dry gin</li>
+                        <li class="list-disc list-style-type: disc">1½ oz. French dry vermouth</li>
+                        <li class="list-disc list-style-type: disc">1 or 2 dashes orange bitters</li>
+                        <br />
+                        <p>Preparation: Stir all ingredients with ice to chill and twist orange peel or lemon peel over the top.</p>
+
+                        <br />
+                        <p>Classic Extra Dry Martini (as it was made from 1950 on) [1950-1960]</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">3 oz. Beefeater London dry gin or Absolut vodka</li>
+                        <li class="list-disc list-style-type: disc">1/8 oz. dry French vermouth</li>
+                        <br />
+                        <p>Preparation: Prepare a tall mixing glass with ice. Pour vermouth over ice and swirl to season, then strain off vermouth. Pour gin or vodka over seasoned ice and stir to chill. Strain into a chilled martini glass. Garnish traditionally with a small pitted Spanish cocktail olive (no pimento).</p>
+                    </div>
                 </div>
-               
-
-            <div>
-                <h2>
-                    21) Pisco Sour [1910-1920]
-                </h2>
-
-                Created by Victor Morris in Lima, Peru around 1915, the Pisco Sour has become the national drink of Peru—and of Chile,
-                since both nations claim pisco as their own. The Pisco Sour is one of the drinks on the short list to step in as a global sensation when the Mojito falters.
-
-
-                Ingredients
-                2 oz. Pisco
-                1 oz. fresh lime juice
-                1 oz. simple syrup
-                Several drops of Angostura bitters
-                1 small egg white
-
-                Preparation: Shake all ingredients very hard with ice and strain into a small cocktail glass. Garnish with several drops of Angostura bitters on top of the foam created by the egg whites.
-            </div>
-
-
-            <div>
-                <h2>
-                    22) Sazerac [1870-1880]
-                </h2>
-
-                New Orleans’ world-famous and beloved twist on the Old-Fashioned is accented with the bitters compounded
-                by Antoine Amedee Peychaud in the mid-nineteenth century, who made a cognac cocktail by mixing them with Sazerac de Forge et Fils, the favorite cognac of the day.
-                The drink took its modern form, with whiskey instead of cognac, in the 1880s, when Billy Wilkinson and Vincent Miret, the charismatic bartenders at the city’s Sazerac House, made their whiskey version famous.
-
-                Ingredients
-                2 oz. straight rye whiskey
-                3-4 dashes Peychaud’s bitters
-                Splash of Pernod 68 absinthe (or regular Pernod)
-                ½ oz. simple syrup or 1 sugar cube and a tiny splash of water
-
-                Preparation: Take two small old-fashioned glasses and chill one with ice while preparing the drink in the other by combining the rye, syrup or sugar, and the bitters and stirring with ice (preferably cracked) to chill. Empty the first glass of its chilling ice, splash a little absinthe into it, swirl it around to coat the inside, and pour it out. Strain the contents of the second glass into it and twist the lemon peel over the top. Note: If you can’t find the Peychaud’s bitters, you can still make this delicious cocktail with Angostura or other bitters; you just can’t call it a Sazerac. You can, however, call it an Improved Whiskey Cocktail. That formula, virtually identical to the Sazerac but with different bitters, dates back to the 1870s. For an improved cocktail, add a barspoon of Grand Marnier or maraschino liqueur.
-            </div>
-
-            <div>
-                <h2>
-                    23) Sidecar [1920-1930]
-                </h2>
-
-                The ultimate Art-Deco cocktail. A French creation of the early 1920s, the Sidecar was soon adopted by sophisticated barflies everywhere.
-
-
-                Ingredients
-                1½ oz. Martell VS or VSOP cognac
-                ¾ oz. Cointreau
-                ½ to ¾ oz. fresh lemon juice
-
-                Preparation: Shake all ingredients with ice and strain into a cocktail glass with sugared rim. Garnish with an orange peel.
             </div>
 
 
 
-            <div>
-                <h2>
-                    24) Stinger [1890-1900]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            17 ) Mint Julep [1790-1800]
+                        </h2>
+                        <br />
+                        <p>The great American classic, first recorded in 1793. Before the American Civil War, the favorite spirit to use in a Mint Julep was not whiskey, but rather old French cognac, often with a little Jamaican rum floated on top. After the Civil War, however, it became almost exclusively a whiskey drink. Either way, if it is made properly, there are few more delicious cocktails, particularly on a warm day.</p>
 
-                This classic New York nightcap—a rich man’s drink if ever there was one—goes back to the 1890s,
-                an adult after-dinner mint that surprises with its refreshing taste. But remember there is only one drink that can follow a Stinger. . . another Stinger!
-
-                Ingredients
-                2¼ oz. Martell VS, VSOP or Cordon Bleu cognac
-                ¾ oz. white crème de menthe
-
-                Preparation: Shake both ingredients with ice and strain into an old fashioned glass filled with crushed ice or serve up in a chilled cocktail glass. Note: This is an exception to the rule that drinks with only liquors and liqueur should be stirred and also that proportions of the two ingredients can vary, many people preferring less crème de menthe and more cognac (David Wondrich recommends 2¼ ounces cognac to ¾ ounce crème de menthe).
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2½ oz. straight bourbon or rye whiskey, or Martell VSOP cognac</li>
+                        <li class="list-disc list-style-type: disc">1 oz. simple syrup or 2 teaspoons superfine sugar</li>
+                        <li class="list-disc list-style-type: disc">2 to 4 sprigs of mint (use tender, young sprigs, since they last longer and look better)</li>
+                        <br />
+                        <p>Preparation: Put the simple syrup or the sugar and ½ oz. water in the bottom of a highball glass. Add 5 or 6 mint leaves (from the bottom of the sprig) and press lightly with a muddler. Add half of the spirits and fill with crushed or finely cracked ice. Swirl with a barspoon until the outside of the glass frosts. Add more crushed ice and the remaining liquor. Stir again to frost the glass. Garnish with at least 1 sprig of mint, and preferably 3. Add a straw.</p>
+                    </div>
+                </div>
             </div>
 
-            <div>
-                <h2>
-                    25) Whiskey Sour [1850-1860]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            18) Mojito [1920-1930]
+                        </h2>
+                        <br />
+                        <p> This Cuban creation from the early years of the twentieth century has become the first breakout drink of the twenty-first.</p>
+                        <br />
 
-                This simple concoction has been satisfying thirsts for a century and a half. It’s also an excellent base for experimentation.
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. white rum</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">1 mint sprig and 4 mint leaves (use tender, young mint tops; peppermint is best because it doesn’t wilt and retains its shape).</li>
+                        <li class="list-disc list-style-type: disc">1 oz. soda</li>
+                        <br />
+                        <p>Preparation: In a mixing glass muddle mint leaves with simple syrup. Add lime juice and rum and fill with ice. Shake vigorously and strain over fresh ice into a highball glass. Top with soda and garnish with a fresh mint sprig.</p>
+                        <br />
+                        <p>-or-</p>
+                        <br />
+                        <p>Muddle the mint leaves gently with the simple syrup and the lime juice in the bottom of a highball glass. Add the rum, stir, add ice and top with no more than two oz. of club soda. Garnish with a generous sprig of mint.</p>
+                    </div>
+                </div>
+            </div>
 
-                Ingredients
-                1½ oz. bourbon or rye whiskey—or indeed any other kind of whiskey
-                ¾ oz. simple syrup
-                ¾ oz. fresh lemon juice
 
-                Preparation: Shake all ingredients with ice and strain into an old-fashioned glass or a special sour glass. Garnish with a flag (an orange slice and a cherry). This drink is equally delicious when made with Irish whiskey. Some brave souls even like theirs with Scotch.
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            19) Negroni [1910-1920]
+                        </h2>
+                        <br />
+                        <p>Camillo Negroni (1868-1934) was a Florentine count who had spent time as a cowboy in the old West and a gambler in New York. When he returned to Florence, in the 1910s, he had the bartender at the Bar Casoni mix these up for him.</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1 oz. Beefeater London dry gin</li>
+                        <li class="list-disc list-style-type: disc">1 oz. Campari</li>
+                        <li class="list-disc list-style-type: disc">1 oz. Italian sweet vermouth</li>
+                        <br />
+                        <p>Preparation: Combine all ingredients in an iced old-fashioned glass and stir. Garnish with an orange peel or orange slice. The count liked his topped with a splash— say, an ounce or so—of soda. Others prefer theirs served straight up, in which case it should be stirred with ice, strained into a chilled cocktail glass and garnished with the peel, not the slice.</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            20) Old-Fashioned [1800-1810]
+                        </h2>
+                        <br />
+                        <p>
+                            By the 1860s, the original “Cock-Tail” of the beginning of the century had begun changing, and if that’s what you wanted, you had to order an “Old-Fashioned” cocktail.
+                            A very simple and satisfying drink, the Old-Fashioned is the choice of many cocktail aficionados. Here are two versions, the original, nineteenth century one, and the rather more lush twentieth century version.</p>
+                        <br />
+
+                        <p>The Old-Fashioned Old-Fashioned</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky or bourbon whiskey</li>
+                        <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
+                        <li class="list-disc list-style-type: disc">1 sugar cube or a well-filled barspoon of superfine sugar</li>
+                        <li class="list-disc list-style-type: disc">Splash water or soda</li>
+                        <br />
+
+                        <p>Preparation: Muddle the sugar and the Angostura bitters in the splash of soda (about a barspoon—no more) until the sugar is dissolved, forming a syrup in the bottom of the glass.
+                            Add the whiskey and the ice, and stir. Garnish with a fresh twist of orange peel.</p>
+                        <br />
+
+
+
+                        <p>Old Fashioned (Muddled) [1910-1920]</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Lot 40 Canadian Rye whisky</li>
+                        <li class="list-disc list-style-type: disc">2-3 dashes Angostura bitters</li>
+                        <li class="list-disc list-style-type: disc">1 sugar cube or a well-filled barspoon of superfine sugar</li>
+                        <li class="list-disc list-style-type: disc">1 orange slice</li>
+                        <li class="list-disc list-style-type: disc">1 maraschino cherry</li>
+                        <li class="list-disc list-style-type: disc">Splash water or soda</li>
+                        <br />
+                        <p>Preparation: Muddle the sugar, bitters, one orange slice, one cherry, and a splash of soda carefully in the bottom of an old-fashioned glass. Remove the orange rind, add whisky/bourbon and ice and stir thoroughly. Garnish with an orange slice and a cherry.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            21) Pisco Sour [1910-1920]
+                        </h2>
+                        <br />
+                        <p>Created by Victor Morris in Lima, Peru around 1915, the Pisco Sour has become the national drink of Peru—and of Chile,
+                            since both nations claim pisco as their own. The Pisco Sour is one of the drinks on the short list to step in as a global sensation when the Mojito falters.</p>
+
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Pisco</li>
+                        <li class="list-disc list-style-type: disc">1 oz. fresh lime juice</li>
+                        <li class="list-disc list-style-type: disc">1 oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">Several drops of Angostura bitters</li>
+                        <li class="list-disc list-style-type: disc">1 small egg white</li>
+                        <br />
+                        <p>Preparation: Shake all ingredients very hard with ice and strain into a small cocktail glass. Garnish with several drops of Angostura bitters on top of the foam created by the egg whites.</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            22) Sazerac [1870-1880]
+                        </h2>
+                        <br />
+                        <p>New Orleans’ world-famous and beloved twist on the Old-Fashioned is accented with the bitters compounded
+                            by Antoine Amedee Peychaud in the mid-nineteenth century, who made a cognac cocktail by mixing them with Sazerac de Forge et Fils, the favorite cognac of the day.
+                            The drink took its modern form, with whiskey instead of cognac, in the 1880s, when Billy Wilkinson and Vincent Miret, the charismatic bartenders at the city’s Sazerac House, made their whiskey version famous.</p>
+                        <br />
+
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. straight rye whiskey </li>
+                        <li class="list-disc list-style-type: disc">3-4 dashes Peychaud’s bitters</li>
+                        <li class="list-disc list-style-type: disc">Splash of Pernod 68 absinthe (or regular Pernod)</li>
+                        <li class="list-disc list-style-type: disc">½ oz. simple syrup or 1 sugar cube and a tiny splash of water</li>
+                        <br />
+                        <p>Preparation: Take two small old-fashioned glasses and chill one with ice while preparing the drink in the other by combining the rye, syrup or sugar, and the bitters and stirring with ice (preferably cracked) to chill. Empty the first glass of its chilling ice, splash a little absinthe into it, swirl it around to coat the inside, and pour it out. Strain the contents of the second glass into it and twist the lemon peel over the top. Note: If you can’t find the Peychaud’s bitters, you can still make this delicious cocktail with Angostura or other bitters; you just can’t call it a Sazerac. You can, however, call it an Improved Whiskey Cocktail. That formula, virtually identical to the Sazerac but with different bitters, dates back to the 1870s. For an improved cocktail, add a barspoon of Grand Marnier or maraschino liqueur.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            23) Sidecar [1920-1930]
+                        </h2>
+                        <br />
+                        <p>The ultimate Art-Deco cocktail. A French creation of the early 1920s, the Sidecar was soon adopted by sophisticated barflies everywhere.</p>
+                        <br />
+
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1½ oz. Martell VS or VSOP cognac</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. Cointreau</li>
+                        <li class="list-disc list-style-type: disc">½ to ¾ oz. fresh lemon juice</li>
+                        <br />
+                        <p>Preparation: Shake all ingredients with ice and strain into a cocktail glass with sugared rim. Garnish with an orange peel.</p>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            24) Stinger [1890-1900]
+                        </h2>
+                        <br />
+                        <p>This classic New York nightcap—a rich man’s drink if ever there was one—goes back to the 1890s,
+                            an adult after-dinner mint that surprises with its refreshing taste.</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2¼ oz. Martell VS, VSOP or Cordon Bleu cognac</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. white crème de menthe</li>
+                        <br />
+                        <p>Preparation: Shake both ingredients with ice and strain into an old fashioned glass filled with crushed ice or serve up in a chilled cocktail glass. Note: This is an exception to the rule that drinks with only liquors and liqueur should be stirred and also that proportions of the two ingredients can vary, many people preferring less crème de menthe and more cognac (David Wondrich recommends 2¼ ounces cognac to ¾ ounce crème de menthe).</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            25) Whiskey Sour [1850-1860]
+                        </h2>
+                        <br />
+
+                        <p>This simple concoction has been satisfying thirsts for a century and a half. It’s also an excellent base for experimentation.</p>
+
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. bourbon or rye whiskey—or indeed any other kind of whiskey</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lemon juice</li>
+                        <br />
+                        <p>Preparation: Shake all ingredients with ice and strain into an old-fashioned glass or a special sour glass. Garnish with a flag (an orange slice and a cherry). This drink is equally delicious when made with Irish whiskey. Some brave souls even like theirs with Scotch.</p>
+                    </div>
+                </div>
             </div>
 
         </article>
