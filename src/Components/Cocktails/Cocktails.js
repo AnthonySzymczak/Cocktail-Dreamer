@@ -9,7 +9,7 @@ function Cocktails() {
                         <h2>
                             1) Aviation Cocktail [1910-1920]
                         </h2>
-                        <p class="">
+                        <p>
                             Invented in New York in the days right before Prohibition, this is one the internet generation has brought back in a big way.
                             The original added a dash of crème de violette for a sky-blue color, which helps to explain the name (you can use Monin violet syrup if crème de violette isn’t available).
                         </p>
@@ -23,26 +23,34 @@ function Cocktails() {
                     </div>
                 </div>
             </div>
-            <div>
-                <h2>
-                    2) Bellini [1940-1950]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            2) Bellini [1940-1950]
+                        </h2>
 
-                The Italian summertime classic from Harry’s Bar in Venice.
 
-                Ingredients:
-                1½ oz. white peach puree (For 1 quart of peach puree add 4 ounces of simple syrup and couple of dashes of Grenadine for color)
-                4 oz. Perrier-Jouët Champagne
-                Optional: ½ oz. Peach Liqueur
+                        <p>The Italian summertime classic from Harry’s Bar in Venice.</p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. white peach puree (For 1 quart of peach puree add 4 ounces of simple syrup and couple of dashes of Grenadine for color)</li>
+                        <li class="list-disc list-style-type: disc">4 oz. Perrier-Jouët Champagne</li>
+                        <p>Optional: ½ oz. Peach Liqueur</p>
+                        <br/>
 
-                Preparation: Put peach puree in bottom of mixing glass, no ice. Slowly pour Champagne while gently stirring, so as not to lose the effervescence. Strain into a Champagne flute.
-
-                Optional: float a ½ ounce of imported peach liqueur.
-
-                Note: For a group, use a 32-48 ounce pitcher and a long barspoon.
-                Add 8 ounces of puree to the bottom of the pitcher filled half way with ice and slowly pour the Champagne while dragging the puree up the side with a spoon in order to mix.
-                Be gentle to retain the bubbles in the champagne. Serve.
+                        <p> Preparation: Put peach puree in bottom of mixing glass, no ice. Slowly pour Champagne while gently stirring, so as not to lose the effervescence. Strain into a Champagne flute.</p>
+                        <br/>
+                        <p>Optional: float a ½ ounce of imported peach liqueur.</p>
+                        <br/>
+                        <p> Note: For a group, use a 32-48 ounce pitcher and a long barspoon.
+                            Add 8 ounces of puree to the bottom of the pitcher filled half way with ice and slowly pour the Champagne while dragging the puree up the side with a spoon in order to mix.
+                            Be gentle to retain the bubbles in the champagne. Serve.</p>
+                    </div>
+                </div>
             </div>
+
+
 
             <div>
                 <h2>
