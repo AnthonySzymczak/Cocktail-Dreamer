@@ -290,38 +290,53 @@ function Cocktails() {
             </div>
 
 
-            <div>
-                <h2>
-                    12) Irish Coffee [1940-1950]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            12) Irish Coffee [1940-1950]
+                        </h2>
+                        <br />
+                        <p>
+                            Originally prepared at Shannon Airport in Dublin by Joe Sheridan the Irish Coffee found a home in the
+                            United States at the Buena Vista across from Fisherman’s Wharf in San Francisco, where it has been the house drink since the early 1950s.
+                        </p>
+                        <br />
 
-                Originally prepared at Shannon Airport in Dublin by Joe Sheridan the Irish Coffee found a home in the
-                United States at the Buena Vista across from Fisherman’s Wharf in San Francisco, where it has been the house drink since the early 1950s.
-
-
-                Ingredients
-                1½ oz. Jameson Irish whiskey
-                1 oz. simple or brown sugar syrup (equal parts of water and brown sugar, dissolved)
-                4 oz. brewed coffee
-                Lightly whipped unsweetened cream
-
-                Preparation: Combine whiskey, coffee and syrup in an Irish coffee glass. Ladle a layer 1 inch (2.5 mm) thick of cream on top.
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1½ oz. Jameson Irish whiskey</li>
+                        <li class="list-disc list-style-type: disc">1 oz. simple or brown sugar syrup (equal parts of water and brown sugar, dissolved)</li>
+                        <li class="list-disc list-style-type: disc">4 oz. brewed coffee</li>
+                        <li class="list-disc list-style-type: disc">Lightly whipped unsweetened cream</li>
+                        <br />
+                        <p>
+                            Preparation: Combine whiskey, coffee and syrup in an Irish coffee glass. Ladle a layer 1 inch (2.5 mm) thick of cream on top.
+                        </p>
+                    </div>
+                </div>
             </div>
 
-            <div>
-                <h2>
-                    13) Mai Tai [1940-1950]
-                </h2>
 
-                This, the dean of all Tiki drinks, was invented by Victor “Trader Vic” Bergeron in Oakland, California.
-
-                Ingredients
-                2 oz. aged rum (Jamaican if possible)
-                ¾ oz. fresh lime juice
-                ¾ oz. orange curaçao
-                1 teaspoon orgeat syrup
-
-                Preparation: Shake well with ice and strain into an old-fashioned glass filled with ice. Garnish with a wheel of lime, a mint sprig and if possible a Sonya orchid.
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            13) Mai Tai [1940-1950]
+                        </h2>
+                        <br />
+                        <p>This, the dean of all Tiki drinks, was invented by Victor “Trader Vic” Bergeron in Oakland, California.</p>
+                        <br />
+                        <p>Ingredients</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. aged rum (Jamaican if possible)</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. orange curaçao</li>
+                        <li class="list-disc list-style-type: disc">1 teaspoon orgeat syrup</li>
+                        <br />
+                        <p>Preparation: Shake well with ice and strain into an old-fashioned glass filled with ice. Garnish with a wheel of lime, a mint sprig and if possible a Sonya orchid.</p>
+                    </div>
+                </div>
             </div>
 
             <div>
