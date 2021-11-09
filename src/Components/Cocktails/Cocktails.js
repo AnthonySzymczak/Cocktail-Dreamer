@@ -52,18 +52,23 @@ function Cocktails() {
 
 
 
-            <div>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
                 <h2>
                     3) Blood and Sand [1920-1930]
                 </h2>
+                <br/>
+                <p>Ingredients</p>
+                <br/>
+                <li class="list-disc list-style-type: disc">¾ oz. Chivas Regal Scotch Whisky</li>
+                <li class="list-disc list-style-type: disc">¾ oz. Cherry Heering</li>
+                <li class="list-disc list-style-type: disc">¾ oz. Italian Sweet Vermouth</li>
+                <li class="list-disc list-style-type: disc">¾ oz. fresh-squeezed orange juice</li>
 
-                Ingredients
-                ¾ oz. Chivas Regal Scotch Whisky
-                ¾ oz. Cherry Heering
-                ¾ oz. Italian Sweet Vermouth
-                ¾ oz. fresh-squeezed orange juice
-
-                Preparation: Shake and strain into a cocktail glass. Garnish with an orange peel.
+                <p>Preparation: Shake and strain into a cocktail glass. Garnish with an orange peel.</p>
+            </div>
+            </div>
             </div>
 
 
