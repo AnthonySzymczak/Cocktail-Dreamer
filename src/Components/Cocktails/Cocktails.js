@@ -31,7 +31,7 @@ function Cocktails() {
                         <h2>
                             2) Bellini [1940-1950]
                         </h2>
-<br />
+                        <br />
 
                         <p>The Italian summertime classic from Harry’s Bar in Venice.</p>
                         <br />
@@ -171,105 +171,122 @@ function Cocktails() {
             <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    7) Cosmopolitan [1980-1990]
-                </h2>
-                <br />
-                <p>“The modern classic has conquered the world; I was given credit for inventing the Cosmo by New York magazine. I was not the inventor but I standardized the recipe and printed it on my cocktail menu at the Rainbow Room, where Madonna was spotted drinking one. That was all the rest of the world needed. The actual inventor is Cheryl Cook from South Beach in Miami, who recently surfaced to claim her invention.” —Dale DeGroff
-                </p>
-                <br />
-                <p>Ingredients:</p>
-                <br />
-                <li class="list-disc list-style-type: disc">1½ oz. Absolut Citron vodka</li>
-                <li class="list-disc list-style-type: disc">¾ oz. Cointreau</li>
-                <li class="list-disc list-style-type: disc">¼ oz. fresh lime juice</li>
-                <li class="list-disc list-style-type: disc">1 oz. Ocean Spray Cranberry Juice Cocktail</li>
-                <br />
-                <p>Preparation: Shake all ingredients with ice. Strain into a chilled cocktail glass. Garnish with an orange peel.</p>
-            </div>
-            </div>
+                        <h2>
+                            7) Cosmopolitan [1980-1990]
+                        </h2>
+                        <br />
+                        <p>“The modern classic has conquered the world; I was given credit for inventing the Cosmo by New York magazine. I was not the inventor but I standardized the recipe and printed it on my cocktail menu at the Rainbow Room, where Madonna was spotted drinking one. That was all the rest of the world needed. The actual inventor is Cheryl Cook from South Beach in Miami, who recently surfaced to claim her invention.” —Dale DeGroff
+                        </p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1½ oz. Absolut Citron vodka</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. Cointreau</li>
+                        <li class="list-disc list-style-type: disc">¼ oz. fresh lime juice</li>
+                        <li class="list-disc list-style-type: disc">1 oz. Ocean Spray Cranberry Juice Cocktail</li>
+                        <br />
+                        <p>Preparation: Shake all ingredients with ice. Strain into a chilled cocktail glass. Garnish with an orange peel.</p>
+                    </div>
+                </div>
             </div>
 
             <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    8) Daiquiri [1900-1910]
-                </h2>
-<br />
-                <p>This Cuban drink derives its name from a town on the island’s southeastern coast. It’s the first classic straight-up cocktail to be invented outside the United States.
-</p>
-<br />
-                <p>Ingredients:</p>
-                <li class="list-disc list-style-type: disc">1½ oz. white rum</li>
-                <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
-                <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
-<br />
+                        <h2>
+                            8) Daiquiri [1900-1910]
+                        </h2>
+                        <br />
+                        <p>This Cuban drink derives its name from a town on the island’s southeastern coast. It’s the first classic straight-up cocktail to be invented outside the United States.
+                        </p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. white rum</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
+                        <br />
 
-<p>                Preparation: Shake all ingredients with ice and strain into a small cocktail glass. Garnish with a lime wheel. Note: Purists will hold out for the original 1910s recipe:</p>
-                juice of half a lime, half a teaspoon superfine sugar, 2 oz. rum (assembled in that order, stirring the sugar into the lime juice before adding the rum).
+                        <p>                Preparation: Shake all ingredients with ice and strain into a small cocktail glass. Garnish with a lime wheel. Note: Purists will hold out for the original 1910s recipe:</p>
+                        juice of half a lime, half a teaspoon superfine sugar, 2 oz. rum (assembled in that order, stirring the sugar into the lime juice before adding the rum).
+                    </div>
                 </div>
-                </div>
-                </div>
+            </div>
 
 
 
-                <div class="container mx-auto flex flex-wrap items-start my-16">
+            <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    9) Gimlet [1890-1900]
-                </h2>
-
-                In the late nineteenth century, the British Navy issued all sailors a ration of preserved lime juice to prevent scurvy. The officers, who did not receive the standard rum ration, mixed theirs with their preferred Plymouth gin. The ice came later.
-
-                Ingredients
-                2½ oz. Beefeater gin
-                ½ oz. preserved lime juice (Rose’s or Angostura)
-
-                Preparation: Shake ingredients well with ice and strain into a chilled martini glass or serve over ice in an old-fashioned glass. Garnish with lime wedge.
-            </div>
-            </div>
-            </div>
-
-            <div>
-                <h2>
-                    10) Gin Fizz [1870-1880]
-                </h2>
-
-
-                The fab drink of the 1870s, the Gin Fizz is simple, refreshing and endlessly adaptable (one of the most popular wrinkles calls for it to be made with an egg white, in which case it is a Silver Fizz;
-                others involve adding six or eight raspberries or a lightly-muddled strawberry or two, when such things are in season).
-
-
-                Ingredients
-                1½ oz. Beefeater gin
-                ¾ oz. fresh lemon juice
-                ¾ oz. simple syrup (or 1 teaspoon superfine sugar)
-                Club soda
-
-                Preparation: Shake the gin, lemon juice and simple syrup and strain into a highball glass. Fill with club soda. No garnish.
-
-                Note: The difference between the Fizz and a Collins is glass size, garnish and ice: a proper Fizz is served without ice in the glass, a Collins has it. The Collins goes in an extra-tall or “Collins” glass, with a cherry and orange slice garnish.
+                        <h2>
+                            9) Gimlet [1890-1900]
+                        </h2>
+                        <br /> <p>
+                            In the late nineteenth century, the British Navy issued all sailors a ration of preserved lime juice to prevent scurvy. The officers, who did not receive the standard rum ration, mixed theirs with their preferred Plymouth gin. The ice came later.
+                        </p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2½ oz. Beefeater gin</li>
+                        <li class="list-disc list-style-type: disc">½ oz. preserved lime juice (Rose’s or Angostura)</li>
+                        <br />
+                        <p>Preparation: Shake ingredients well with ice and strain into a chilled martini glass or serve over ice in an old-fashioned glass. Garnish with lime wedge.
+                        </p>
+                    </div>
+                </div>
             </div>
 
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            10) Gin Fizz [1870-1880]
+                        </h2>
+                        <br />
+
+                        <p>The fab drink of the 1870s, the Gin Fizz is simple, refreshing and endlessly adaptable (one of the most popular wrinkles calls for it to be made with an egg white, in which case it is a Silver Fizz;
+                            others involve adding six or eight raspberries or a lightly-muddled strawberry or two, when such things are in season).</p>
+                        <br />
+
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1½ oz. Beefeater gin</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lemon juice</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. simple syrup (or 1 teaspoon superfine sugar)</li>
+                        <li class="list-disc list-style-type: disc">Club soda</li>
+                        <br />
+                        <p> Preparation: Shake the gin, lemon juice and simple syrup and strain into a highball glass. Fill with club soda. No garnish.</p>
+                        <br />
+                        <p>Note: The difference between the Fizz and a Collins is glass size, garnish and ice: a proper Fizz is served without ice in the glass, a Collins has it. The Collins goes in an extra-tall or “Collins” glass, with a cherry and orange slice garnish.
+                        </p>
+                    </div>
+                </div>
+            </div>
 
 
-            <div>
-                <h2>
-                    11) Hot Toddy [1750-1760]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            11) Hot Toddy [1750-1760]
+                        </h2>
+                        <br />
+                        <p>
+                            This simple drink is one of the oldest in the world’s drink vocabulary, dating back to Scotland in the middle of the 1700s. It’s also one of the best, whether made simply as below or fancied up with cider instead of the water and cloves, cinnamon sticks and other spices. (No video available)
+                        </p>
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. The Glenlivet single-malt Scotch whisky or Redbreast Irish whiskey</li>
+                        <li class="list-disc list-style-type: disc">1 well-filled barspoon demerara sugar or ¼ oz. honey</li>
+                        <li class="list-disc list-style-type: disc">1 strip of thin-cut lemon peel</li>
+                        <li class="list-disc list-style-type: disc">2-4 oz. boiling water</li>
 
-                This simple drink is one of the oldest in the world’s drink vocabulary, dating back to Scotland in the middle of the 1700s. It’s also one of the best, whether made simply as below or fancied up with cider instead of the water and cloves, cinnamon sticks and other spices. (No video available)
+                        <br />
 
-                Ingredients
-                2 oz. The Glenlivet single-malt Scotch whisky or Redbreast Irish whiskey
-                1 well-filled barspoon demerara sugar or ¼ oz. honey
-                1 strip of thin-cut lemon peel
-                2-4 oz. boiling water
-
-
-                Preparation: Rinse out a mug or hot whiskey glass with boiling water, to warm it. This is as essential a step with hot drinks as chilling the glass is with cold ones. Add the sugar or honey, the lemon peel and half an oz. or so boiling water. Stir until sugar or honey has dissolved. Add the whisky and another 1½ to 2½ ounces water, depending on how stiff a drink is required.
+                        <p>Preparation: Rinse out a mug or hot whiskey glass with boiling water, to warm it. This is as essential a step with hot drinks as chilling the glass is with cold ones. Add the sugar or honey, the lemon peel and half an oz. or so boiling water. Stir until sugar or honey has dissolved. Add the whisky and another 1½ to 2½ ounces water, depending on how stiff a drink is required.
+                        </p>
+                    </div>
+                </div>
             </div>
 
 
