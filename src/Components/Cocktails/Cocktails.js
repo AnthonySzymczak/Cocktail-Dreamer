@@ -37,12 +37,12 @@ function Cocktails() {
                         <li class="list-disc list-style-type: disc">1½ oz. white peach puree (For 1 quart of peach puree add 4 ounces of simple syrup and couple of dashes of Grenadine for color)</li>
                         <li class="list-disc list-style-type: disc">4 oz. Perrier-Jouët Champagne</li>
                         <p>Optional: ½ oz. Peach Liqueur</p>
-                        <br/>
+                        <br />
 
                         <p> Preparation: Put peach puree in bottom of mixing glass, no ice. Slowly pour Champagne while gently stirring, so as not to lose the effervescence. Strain into a Champagne flute.</p>
-                        <br/>
+                        <br />
                         <p>Optional: float a ½ ounce of imported peach liqueur.</p>
-                        <br/>
+                        <br />
                         <p> Note: For a group, use a 32-48 ounce pitcher and a long barspoon.
                             Add 8 ounces of puree to the bottom of the pitcher filled half way with ice and slowly pour the Champagne while dragging the puree up the side with a spoon in order to mix.
                             Be gentle to retain the bubbles in the champagne. Serve.</p>
@@ -55,80 +55,86 @@ function Cocktails() {
             <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    3) Blood and Sand [1920-1930]
-                </h2>
-                <br/>
-                <p>Ingredients</p>
-                <br/>
-                <li class="list-disc list-style-type: disc">¾ oz. Chivas Regal Scotch Whisky</li>
-                <li class="list-disc list-style-type: disc">¾ oz. Cherry Heering</li>
-                <li class="list-disc list-style-type: disc">¾ oz. Italian Sweet Vermouth</li>
-                <li class="list-disc list-style-type: disc">¾ oz. fresh-squeezed orange juice</li>
+                        <h2>
+                            3) Blood and Sand [1920-1930]
+                        </h2>
+                        <br />
+                        <p>Ingredients</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">¾ oz. Chivas Regal Scotch Whisky</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. Cherry Heering</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. Italian Sweet Vermouth</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh-squeezed orange juice</li>
 
-                <p>Preparation: Shake and strain into a cocktail glass. Garnish with an orange peel.</p>
-            </div>
-            </div>
+                        <p>Preparation: Shake and strain into a cocktail glass. Garnish with an orange peel.</p>
+                    </div>
+                </div>
             </div>
 
 
             <div class="container mx-auto flex flex-wrap items-start my-16">
                 <div class="lg:w-1/4 w-full lg:pr-3">
                     <div class="bg-gray-200 rounded-xl p-6">
-                <h2>
-                    4) Bloody Mary (Original Recipe) [1920-1930]
-                </h2>
-<p>
-                As the story goes, the Bloody Mary was invented at the legendary (and still-standing) Harry’s New York Bar in Paris in the early 1920s, when bartender Ferdinand “Pete” Petiot poured vodka
-                (popular in Paris due to the large number of Russians taking refuge there from the Bolshevik Revolution) into a glass of tomato juice, newly imported in cans from the United States. In 1934, the story continues,
-                Petiot brought the drink to America, when—Prohibition having just been repealed—he became head bartender at New York’s St. Regis Hotel. It was at this point that he added the spices the drink contains today—the lemon juice,
-                the Worcestershire, the Tabasco, the salt and pepper; in fact, the only thing to distinguish it from the modern Bloody Mary is the name, which had to be changed to Red Snapper (the other was thought vulgar)
-                and the fact that it had to be made with gin, as vodka wasn’t yet available in the US.
-</p>
-<p>
-                Well, at least some of this is true. Pete Petiot did work at Harry’s in the early 1920s and at the St. Regis in the 1930s (and 40s, 50s and 60s).
-                You could get both vodka and tomato juice in Paris at some point in the 1920s, anyway. But tomato juice had been a popular hangover cure in America for a long time.
-                What’s more, in the late 1920s, the people responsible for marketing the stuff began widely publicizing an alcohol-free “Tomato Juice Cocktail” designed to give a bit of the bite of an alcoholic drink,
-                without anything illegal in it. Its ingredients? Tomato juice, lemon juice, Worcestershire sauce, Tabasco sauce, salt and pepper.
-                It didn’t take much inventing to add a little alcohol to that. Add a number of other claimants to the invention and some later hedging and hemming and hawing from Petiot,
-                and a clear story turns very murky. One thing we do know for sure is that the combination of vodka and tomato juice, however you named it and whatever else you added to it, was well-established as a hangover drink by the late 1930s.
-                One other thing we also know is that Pete Petiot was one hell of a great bartender, whether he invented the Bloody Mary or merely facilitated its acceptance.
-</p>
-                <br/>
-                    <p>Ingredients</p>
-                    <li class="list-disc list-style-type: disc">1½ oz. Absolut vodka</li>
-                    <li class="list-disc list-style-type: disc">2 dashes Worcestershire sauce</li>
-                    <li class="list-disc list-style-type: disc">4 dashes Tabasco sauce</li>
-                    <li class="list-disc list-style-type: disc">Pinch of salt and pepper</li>
-                    <li class="list-disc list-style-type: disc">¼ oz. fresh lemon juice</li>
-                    <li class="list-disc list-style-type: disc">4 oz. tomato juice</li>
-<br/>
-                    <p>Preparation: Combine all ingredients in mixing glass and roll back and forth into tin to mix (that will prevent the tomato juice from foaming). Strain into an iced goblet. Garnish with wedge of lemon and lime on a side plate. 
-                        A dash of celery salt is a nice touch and New Yorkers traditionally add horseradish. Bloody Marys offer rich ground for improvisation both in garnish and ingredients. Have fun.</p>
-                
-            </div>
-            </div>
-            </div>
+                        <h2>
+                            4) Bloody Mary (Original Recipe) [1920-1930]
+                        </h2>
+                        <p>
+                            As the story goes, the Bloody Mary was invented at the legendary (and still-standing) Harry’s New York Bar in Paris in the early 1920s, when bartender Ferdinand “Pete” Petiot poured vodka
+                            (popular in Paris due to the large number of Russians taking refuge there from the Bolshevik Revolution) into a glass of tomato juice, newly imported in cans from the United States. In 1934, the story continues,
+                            Petiot brought the drink to America, when—Prohibition having just been repealed—he became head bartender at New York’s St. Regis Hotel. It was at this point that he added the spices the drink contains today—the lemon juice,
+                            the Worcestershire, the Tabasco, the salt and pepper; in fact, the only thing to distinguish it from the modern Bloody Mary is the name, which had to be changed to Red Snapper (the other was thought vulgar)
+                            and the fact that it had to be made with gin, as vodka wasn’t yet available in the US.
+                        </p>
+                        <p>
+                            Well, at least some of this is true. Pete Petiot did work at Harry’s in the early 1920s and at the St. Regis in the 1930s (and 40s, 50s and 60s).
+                            You could get both vodka and tomato juice in Paris at some point in the 1920s, anyway. But tomato juice had been a popular hangover cure in America for a long time.
+                            What’s more, in the late 1920s, the people responsible for marketing the stuff began widely publicizing an alcohol-free “Tomato Juice Cocktail” designed to give a bit of the bite of an alcoholic drink,
+                            without anything illegal in it. Its ingredients? Tomato juice, lemon juice, Worcestershire sauce, Tabasco sauce, salt and pepper.
+                            It didn’t take much inventing to add a little alcohol to that. Add a number of other claimants to the invention and some later hedging and hemming and hawing from Petiot,
+                            and a clear story turns very murky. One thing we do know for sure is that the combination of vodka and tomato juice, however you named it and whatever else you added to it, was well-established as a hangover drink by the late 1930s.
+                            One other thing we also know is that Pete Petiot was one hell of a great bartender, whether he invented the Bloody Mary or merely facilitated its acceptance.
+                        </p>
+                        <br />
+                        <p>Ingredients</p>
+                        <li class="list-disc list-style-type: disc">1½ oz. Absolut vodka</li>
+                        <li class="list-disc list-style-type: disc">2 dashes Worcestershire sauce</li>
+                        <li class="list-disc list-style-type: disc">4 dashes Tabasco sauce</li>
+                        <li class="list-disc list-style-type: disc">Pinch of salt and pepper</li>
+                        <li class="list-disc list-style-type: disc">¼ oz. fresh lemon juice</li>
+                        <li class="list-disc list-style-type: disc">4 oz. tomato juice</li>
+                        <br />
+                        <p>Preparation: Combine all ingredients in mixing glass and roll back and forth into tin to mix (that will prevent the tomato juice from foaming). Strain into an iced goblet. Garnish with wedge of lemon and lime on a side plate.
+                            A dash of celery salt is a nice touch and New Yorkers traditionally add horseradish. Bloody Marys offer rich ground for improvisation both in garnish and ingredients. Have fun.</p>
 
-
-
-            <div>
-                <h2>
-                    5) Caipirinha [1930-1940], Caipirissima, Caipiroska [1960-1970]
-                </h2>
-
-                The national drink of Brazil, and party animals everywhere.
-
-                Ingredients
-                2 oz. Janeiro cachaça
-                1½ barspoons of sugar or ¾ oz. simple syrup
-                ½ lime, quartered
-
-                Preparation: Place lime quarters in the bottom of mixing glass, add the sugar or syrup and muddle, extracting the juice and the oil in the skin from the lime quarters.
-                Chill a rocks glass with cracked ice. Add cachaça (or white rum, for a Caipirissima, or Absolut vodka, for a Caipiroska) to the mixture in the glass, toss in the ice and shake well.
-                Pour the entire contents of the mixing glass back into the chilled rocks glass and serve. Another method is to build the whole drink in the glass that will receive it, omitting the shaking.
+                    </div>
+                </div>
             </div>
 
+
+
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            5) Caipirinha [1930-1940], Caipirissima, Caipiroska [1960-1970]
+                        </h2>
+
+                        <p>The national drink of Brazil, and party animals everywhere.</p>
+                        <br />
+                        <p>Ingredients</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">2 oz. Janeiro cachaça</li>
+                        <li class="list-disc list-style-type: disc">1½ barspoons of sugar or ¾ oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">½ lime, quartered</li>
+                        <br />
+                        <p>
+                            Preparation: Place lime quarters in the bottom of mixing glass, add the sugar or syrup and muddle, extracting the juice and the oil in the skin from the lime quarters.
+                            Chill a rocks glass with cracked ice. Add cachaça (or white rum, for a Caipirissima, or Absolut vodka, for a Caipiroska) to the mixture in the glass, toss in the ice and shake well.
+                            Pour the entire contents of the mixing glass back into the chilled rocks glass and serve. Another method is to build the whole drink in the glass that will receive it, omitting the shaking.
+                        </p>
+                    </div>
+                </div>
+            </div>
 
 
             <div>
