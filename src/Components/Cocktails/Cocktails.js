@@ -167,20 +167,26 @@ function Cocktails() {
             </div>
 
 
-            <div>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
                 <h2>
                     7) Cosmopolitan [1980-1990]
                 </h2>
-
-                “The modern classic has conquered the world; I was given credit for inventing the Cosmo by New York magazine. I was not the inventor but I standardized the recipe and printed it on my cocktail menu at the Rainbow Room, where Madonna was spotted drinking one. That was all the rest of the world needed. The actual inventor is Cheryl Cook from South Beach in Miami, who recently surfaced to claim her invention.” —Dale DeGroff
-
-                Ingredients:
-                1½ oz. Absolut Citron vodka
-                ¾ oz. Cointreau
-                ¼ oz. fresh lime juice
-                1 oz. Ocean Spray Cranberry Juice Cocktail
-
-                Preparation: Shake all ingredients with ice. Strain into a chilled cocktail glass. Garnish with an orange peel.
+                <br />
+                <p>“The modern classic has conquered the world; I was given credit for inventing the Cosmo by New York magazine. I was not the inventor but I standardized the recipe and printed it on my cocktail menu at the Rainbow Room, where Madonna was spotted drinking one. That was all the rest of the world needed. The actual inventor is Cheryl Cook from South Beach in Miami, who recently surfaced to claim her invention.” —Dale DeGroff
+                </p>
+                <br />
+                <p>Ingredients:</p>
+                <br />
+                <li class="list-disc list-style-type: disc">1½ oz. Absolut Citron vodka</li>
+                <li class="list-disc list-style-type: disc">¾ oz. Cointreau</li>
+                <li class="list-disc list-style-type: disc">¼ oz. fresh lime juice</li>
+                <li class="list-disc list-style-type: disc">1 oz. Ocean Spray Cranberry Juice Cocktail</li>
+                <br />
+                <p>Preparation: Shake all ingredients with ice. Strain into a chilled cocktail glass. Garnish with an orange peel.</p>
+            </div>
+            </div>
             </div>
 
             <div>
