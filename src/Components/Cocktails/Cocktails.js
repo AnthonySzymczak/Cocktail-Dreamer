@@ -634,8 +634,9 @@ function Cocktails() {
                         <br />
 
                         <p>This simple concoction has been satisfying thirsts for a century and a half. It’s also an excellent base for experimentation.</p>
-
+                        <br />
                         <p>Ingredients:</p>
+                        <br />
                         <li class="list-disc list-style-type: disc">1½ oz. bourbon or rye whiskey—or indeed any other kind of whiskey</li>
                         <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
                         <li class="list-disc list-style-type: disc">¾ oz. fresh lemon juice</li>
