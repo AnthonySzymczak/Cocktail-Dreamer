@@ -3,22 +3,26 @@ import React from 'react'
 function Cocktails() {
     return(
 <article>
-<div>
+<div class="container mx-auto flex flex-wrap items-start my-16">
+<div class="lg:w-1/4 w-full lg:pr-3">
+    <div class="bg-gray-200 rounded-xl p-6">
     <h2>
 1) Aviation Cocktail [1910-1920]
     </h2>
-
+<p class=""> 
 Invented in New York in the days right before Prohibition, this is one the internet generation has brought back in a big way. 
 The original added a dash of crème de violette for a sky-blue color, which helps to explain the name (you can use Monin violet syrup if crème de violette isn’t available).
-
-Ingredients:
-2 oz. Beefeater gin
-½ oz. Maraschino Liqueur
-½ oz. fresh lemon juice
-Preparation: Shake all ingredients with ice and strain into a chilled cocktail glass.
-Optional: reduce the maraschino to 2 teaspoons and add 1 teaspoon crème de violette.
+</p>
+<br/>
+<p>Ingredients:</p>
+<li class="list-disc list-style-type: disc"> 2 oz. Beefeater gin</li>
+<li class="list-disc list-style-type: disc">½ oz. Maraschino Liqueur</li>
+<li class="list-disc list-style-type: disc">½ oz. fresh lemon juice</li>
+<p>Preparation: Shake all ingredients with ice and strain into a chilled cocktail glass.</p>
+<p>Optional: reduce the maraschino to 2 teaspoons and add 1 teaspoon crème de violette.</p>
 </div>
-
+</div>
+</div>
 <div>
     <h2>
 2) Bellini [1940-1950]  
