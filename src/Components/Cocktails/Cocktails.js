@@ -9,6 +9,7 @@ function Cocktails() {
                         <h2>
                             1) Aviation Cocktail [1910-1920]
                         </h2>
+                        <br />
                         <p>
                             Invented in New York in the days right before Prohibition, this is one the internet generation has brought back in a big way.
                             The original added a dash of crème de violette for a sky-blue color, which helps to explain the name (you can use Monin violet syrup if crème de violette isn’t available).
@@ -30,7 +31,7 @@ function Cocktails() {
                         <h2>
                             2) Bellini [1940-1950]
                         </h2>
-
+<br />
 
                         <p>The Italian summertime classic from Harry’s Bar in Venice.</p>
                         <br />
@@ -189,25 +190,33 @@ function Cocktails() {
             </div>
             </div>
 
-            <div>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
                 <h2>
                     8) Daiquiri [1900-1910]
                 </h2>
+<br />
+                <p>This Cuban drink derives its name from a town on the island’s southeastern coast. It’s the first classic straight-up cocktail to be invented outside the United States.
+</p>
+<br />
+                <p>Ingredients:</p>
+                <li class="list-disc list-style-type: disc">1½ oz. white rum</li>
+                <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
+                <li class="list-disc list-style-type: disc">¾ oz. fresh lime juice</li>
+<br />
 
-                This Cuban drink derives its name from a town on the island’s southeastern coast. It’s the first classic straight-up cocktail to be invented outside the United States.
-
-                Ingredients
-                1½ oz. white rum
-                ¾ oz. simple syrup
-                ¾ oz. fresh lime juice
-
-                Preparation: Shake all ingredients with ice and strain into a small cocktail glass. Garnish with a lime wheel. Note: Purists will hold out for the original 1910s recipe:
+<p>                Preparation: Shake all ingredients with ice and strain into a small cocktail glass. Garnish with a lime wheel. Note: Purists will hold out for the original 1910s recipe:</p>
                 juice of half a lime, half a teaspoon superfine sugar, 2 oz. rum (assembled in that order, stirring the sugar into the lime juice before adding the rum).
-            </div>
+                </div>
+                </div>
+                </div>
 
 
 
-            <div>
+                <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
                 <h2>
                     9) Gimlet [1890-1900]
                 </h2>
@@ -219,6 +228,8 @@ function Cocktails() {
                 ½ oz. preserved lime juice (Rose’s or Angostura)
 
                 Preparation: Shake ingredients well with ice and strain into a chilled martini glass or serve over ice in an old-fashioned glass. Garnish with lime wedge.
+            </div>
+            </div>
             </div>
 
             <div>
