@@ -15,6 +15,7 @@ function Cocktails() {
                         </p>
                         <br />
                         <p>Ingredients:</p>
+                        <br />
                         <li class="list-disc list-style-type: disc"> 2 oz. Beefeater gin</li>
                         <li class="list-disc list-style-type: disc">½ oz. Maraschino Liqueur</li>
                         <li class="list-disc list-style-type: disc">½ oz. fresh lemon juice</li>
@@ -34,6 +35,7 @@ function Cocktails() {
                         <p>The Italian summertime classic from Harry’s Bar in Venice.</p>
                         <br />
                         <p>Ingredients:</p>
+                        <br />
                         <li class="list-disc list-style-type: disc">1½ oz. white peach puree (For 1 quart of peach puree add 4 ounces of simple syrup and couple of dashes of Grenadine for color)</li>
                         <li class="list-disc list-style-type: disc">4 oz. Perrier-Jouët Champagne</li>
                         <p>Optional: ½ oz. Peach Liqueur</p>
@@ -59,7 +61,7 @@ function Cocktails() {
                             3) Blood and Sand [1920-1930]
                         </h2>
                         <br />
-                        <p>Ingredients</p>
+                        <p>Ingredients:</p>
                         <br />
                         <li class="list-disc list-style-type: disc">¾ oz. Chivas Regal Scotch Whisky</li>
                         <li class="list-disc list-style-type: disc">¾ oz. Cherry Heering</li>
@@ -78,6 +80,7 @@ function Cocktails() {
                         <h2>
                             4) Bloody Mary (Original Recipe) [1920-1930]
                         </h2>
+                        <br />
                         <p>
                             As the story goes, the Bloody Mary was invented at the legendary (and still-standing) Harry’s New York Bar in Paris in the early 1920s, when bartender Ferdinand “Pete” Petiot poured vodka
                             (popular in Paris due to the large number of Russians taking refuge there from the Bolshevik Revolution) into a glass of tomato juice, newly imported in cans from the United States. In 1934, the story continues,
@@ -85,6 +88,7 @@ function Cocktails() {
                             the Worcestershire, the Tabasco, the salt and pepper; in fact, the only thing to distinguish it from the modern Bloody Mary is the name, which had to be changed to Red Snapper (the other was thought vulgar)
                             and the fact that it had to be made with gin, as vodka wasn’t yet available in the US.
                         </p>
+                        <br />
                         <p>
                             Well, at least some of this is true. Pete Petiot did work at Harry’s in the early 1920s and at the St. Regis in the 1930s (and 40s, 50s and 60s).
                             You could get both vodka and tomato juice in Paris at some point in the 1920s, anyway. But tomato juice had been a popular hangover cure in America for a long time.
@@ -95,7 +99,8 @@ function Cocktails() {
                             One other thing we also know is that Pete Petiot was one hell of a great bartender, whether he invented the Bloody Mary or merely facilitated its acceptance.
                         </p>
                         <br />
-                        <p>Ingredients</p>
+                        <p>Ingredients:</p>
+                        <br />
                         <li class="list-disc list-style-type: disc">1½ oz. Absolut vodka</li>
                         <li class="list-disc list-style-type: disc">2 dashes Worcestershire sauce</li>
                         <li class="list-disc list-style-type: disc">4 dashes Tabasco sauce</li>
@@ -121,7 +126,7 @@ function Cocktails() {
 
                         <p>The national drink of Brazil, and party animals everywhere.</p>
                         <br />
-                        <p>Ingredients</p>
+                        <p>Ingredients:</p>
                         <br />
                         <li class="list-disc list-style-type: disc">2 oz. Janeiro cachaça</li>
                         <li class="list-disc list-style-type: disc">1½ barspoons of sugar or ¾ oz. simple syrup</li>
@@ -137,20 +142,28 @@ function Cocktails() {
             </div>
 
 
-            <div>
-                <h2>
-                    6) Collins (Tom, John or Vodka) [1820-1830]
-                </h2>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
+                        <h2>
+                            6) Collins (Tom, John or Vodka) [1820-1830]
+                        </h2>
+                        <br />
+                        <p>
+                            The Collins goes back to London in the early nineteenth century, where places like the Garrick Club (for actors and other sporty types) and Limmer’s Hotel (patronized by dukes and bookies in equal proportion) began serving a Gin Punch that was stretched out with iced soda water. It takes its surname from John Collins, headwaiter at Limmer’s. Eventually, the John Collins changed from a drink made with Dutch genever or English Old Tom gin to one with American whiskey, while the gin version took on the name Tom Collins, due to both to the rise in popularity of Old Tom gin and a joke that was going around America in the 1870s about one Tom Collins who went around saying terrible things about people.
+                        </p>
 
-                The Collins goes back to London in the early nineteenth century, where places like the Garrick Club (for actors and other sporty types) and Limmer’s Hotel (patronized by dukes and bookies in equal proportion) began serving a Gin Punch that was stretched out with iced soda water. It takes its surname from John Collins, headwaiter at Limmer’s. Eventually, the John Collins changed from a drink made with Dutch genever or English Old Tom gin to one with American whiskey, while the gin version took on the name Tom Collins, due to both to the rise in popularity of Old Tom gin and a joke that was going around America in the 1870s about one Tom Collins who went around saying terrible things about people.
-
-                Ingredients
-                1½ oz. Beefeater Gin, genever gin, bourbon or Absolut vodka
-                ¾ oz. fresh lemon juice
-                ¾ oz. simple syrup
-                Club soda
-
-                Preparation: Shake spirits, lemon juice and simple syrup with ice, strain into an iced Collins glass and fill with soda. Garnish with a cherry and an orange slice. For a Vodka Collins, replace the gin with Absolut vodka. For an old-style John Collins, use a Dutch genever or a good American bourbon whiskey.
+                        <br />
+                        <p>Ingredients:</p>
+                        <br />
+                        <li class="list-disc list-style-type: disc">1½ oz. Beefeater Gin, genever gin, bourbon or Absolut vodka</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. fresh lemon juice</li>
+                        <li class="list-disc list-style-type: disc">¾ oz. simple syrup</li>
+                        <li class="list-disc list-style-type: disc">Club soda</li>
+                        <br />
+                        <p>Preparation: Shake spirits, lemon juice and simple syrup with ice, strain into an iced Collins glass and fill with soda. Garnish with a cherry and an orange slice. For a Vodka Collins, replace the gin with Absolut vodka. For an old-style John Collins, use a Dutch genever or a good American bourbon whiskey.</p>
+                    </div>
+                </div>
             </div>
 
 
@@ -161,7 +174,7 @@ function Cocktails() {
 
                 “The modern classic has conquered the world; I was given credit for inventing the Cosmo by New York magazine. I was not the inventor but I standardized the recipe and printed it on my cocktail menu at the Rainbow Room, where Madonna was spotted drinking one. That was all the rest of the world needed. The actual inventor is Cheryl Cook from South Beach in Miami, who recently surfaced to claim her invention.” —Dale DeGroff
 
-                Ingredients
+                Ingredients:
                 1½ oz. Absolut Citron vodka
                 ¾ oz. Cointreau
                 ¼ oz. fresh lime juice
