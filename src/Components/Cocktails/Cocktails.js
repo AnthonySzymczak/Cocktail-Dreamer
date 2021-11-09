@@ -72,17 +72,20 @@ function Cocktails() {
             </div>
 
 
-            <div>
+            <div class="container mx-auto flex flex-wrap items-start my-16">
+                <div class="lg:w-1/4 w-full lg:pr-3">
+                    <div class="bg-gray-200 rounded-xl p-6">
                 <h2>
                     4) Bloody Mary (Original Recipe) [1920-1930]
                 </h2>
-
+<p>
                 As the story goes, the Bloody Mary was invented at the legendary (and still-standing) Harry’s New York Bar in Paris in the early 1920s, when bartender Ferdinand “Pete” Petiot poured vodka
                 (popular in Paris due to the large number of Russians taking refuge there from the Bolshevik Revolution) into a glass of tomato juice, newly imported in cans from the United States. In 1934, the story continues,
                 Petiot brought the drink to America, when—Prohibition having just been repealed—he became head bartender at New York’s St. Regis Hotel. It was at this point that he added the spices the drink contains today—the lemon juice,
                 the Worcestershire, the Tabasco, the salt and pepper; in fact, the only thing to distinguish it from the modern Bloody Mary is the name, which had to be changed to Red Snapper (the other was thought vulgar)
                 and the fact that it had to be made with gin, as vodka wasn’t yet available in the US.
-
+</p>
+<p>
                 Well, at least some of this is true. Pete Petiot did work at Harry’s in the early 1920s and at the St. Regis in the 1930s (and 40s, 50s and 60s).
                 You could get both vodka and tomato juice in Paris at some point in the 1920s, anyway. But tomato juice had been a popular hangover cure in America for a long time.
                 What’s more, in the late 1920s, the people responsible for marketing the stuff began widely publicizing an alcohol-free “Tomato Juice Cocktail” designed to give a bit of the bite of an alcoholic drink,
@@ -90,18 +93,21 @@ function Cocktails() {
                 It didn’t take much inventing to add a little alcohol to that. Add a number of other claimants to the invention and some later hedging and hemming and hawing from Petiot,
                 and a clear story turns very murky. One thing we do know for sure is that the combination of vodka and tomato juice, however you named it and whatever else you added to it, was well-established as a hangover drink by the late 1930s.
                 One other thing we also know is that Pete Petiot was one hell of a great bartender, whether he invented the Bloody Mary or merely facilitated its acceptance.
-
-                <div>
-                    Ingredients
-                    1½ oz. Absolut vodka
-                    2 dashes Worcestershire sauce
-                    4 dashes Tabasco sauce
-                    Pinch of salt and pepper
-                    ¼ oz. fresh lemon juice
-                    4 oz. tomato juice
-
-                    Preparation: Combine all ingredients in mixing glass and roll back and forth into tin to mix (that will prevent the tomato juice from foaming). Strain into an iced goblet. Garnish with wedge of lemon and lime on a side plate. A dash of celery salt is a nice touch and New Yorkers traditionally add horseradish. Bloody Marys offer rich ground for improvisation both in garnish and ingredients. Have fun.
-                </div>
+</p>
+                <br/>
+                    <p>Ingredients</p>
+                    <li class="list-disc list-style-type: disc">1½ oz. Absolut vodka</li>
+                    <li class="list-disc list-style-type: disc">2 dashes Worcestershire sauce</li>
+                    <li class="list-disc list-style-type: disc">4 dashes Tabasco sauce</li>
+                    <li class="list-disc list-style-type: disc">Pinch of salt and pepper</li>
+                    <li class="list-disc list-style-type: disc">¼ oz. fresh lemon juice</li>
+                    <li class="list-disc list-style-type: disc">4 oz. tomato juice</li>
+<br/>
+                    <p>Preparation: Combine all ingredients in mixing glass and roll back and forth into tin to mix (that will prevent the tomato juice from foaming). Strain into an iced goblet. Garnish with wedge of lemon and lime on a side plate. 
+                        A dash of celery salt is a nice touch and New Yorkers traditionally add horseradish. Bloody Marys offer rich ground for improvisation both in garnish and ingredients. Have fun.</p>
+                
+            </div>
+            </div>
             </div>
 
 
