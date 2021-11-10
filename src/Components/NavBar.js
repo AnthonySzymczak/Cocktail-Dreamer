@@ -53,7 +53,7 @@ function Navbar() {
                 Cocktails
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 to="/Create"
                 className="nav-links"
@@ -61,7 +61,7 @@ function Navbar() {
               >
                 Create your own!
               </Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link
                 to="/Knowledge"
@@ -71,7 +71,7 @@ function Navbar() {
                 Learn More
               </Link>
             </li>
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <Link
                 to="/Suggestions"
                 className="nav-links"
@@ -79,7 +79,7 @@ function Navbar() {
               >
                 Suggestions
               </Link>
-            </li>
+            </li> */}
             <li className="nav-item">
               <Link
                 to="/Contact"
