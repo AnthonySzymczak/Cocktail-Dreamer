@@ -6,7 +6,7 @@ import coverImage from "../../images/Bar.jpg"
 function Welcome() {
   return (
     <div className="Welcome1"  >
-      {/* <h1>Cocktail Dreamer</h1> */}
+      <h1 class="italic text-5xl">Cocktail Dreamer</h1>
       <div className="Welcome2">
         {/* <h3>Welcome to Cocktail Dreamer, Login to get started.</h3> */}
         {/* <Login /> */}
